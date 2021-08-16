@@ -21,4 +21,7 @@ children:
     - title: divider
     - title: Books
       permalink: /books/
+    - title: divider
+    - title: Thesis
+      permalink: /thesis/
 ---
