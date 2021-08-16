@@ -1,12 +1,24 @@
 ---
 layout: page
-title: submenus
+title: Publications
 nav: true
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Int’l. Journal
+      permalink: /int_jn/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Int’l. Conf
+      permalink: /int_cf/
+    - title: divider
+    - title: Dom. Journal
+      permalink: /dom_jn/
+    - title: divider
+    - title: Dom. Conf
+      permalink: /dom_cf/
+    - title: divider
+    - title: Patent
+      permalink: /patent/
+    - title: divider
+    - title: Books
+      permalink: /books/
 ---
