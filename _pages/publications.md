@@ -9,9 +9,9 @@ nav: true
 
 <div class="publications">
 
-{% for y in (1994..2030) %}
+<!--{% for y in (1994..2030) %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+{% endfor %}-->
 
 </div>
