@@ -15,7 +15,7 @@ display_categories: [work]
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 <p>
-    <div class="card hoverable">
+    <div class="card hoverable bg-custom-1">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
                 <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid" alt="{{ member.profile.name }}" />
@@ -25,7 +25,7 @@ display_categories: [work]
                     <a href="{{ member.url | relative_url }}">
                     <h5 class="card-title">{{ member.profile.name }}</h5>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
-                    <p class="card-text">
+                    <p class="card-text" style="color: var(--global-text-color);opacity:.6">
                         {{ member.teaser }}
                     </p>
                     </a>

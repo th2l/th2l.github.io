@@ -26,6 +26,15 @@ ol.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
 ul.space_list li { margin-bottom: 1em;}
 ul.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
 
+.bg-custom-1 {
+    background-color: var(--global-bg-color);
+}
+
+.text-custom-1 {
+    color: var(--global-text-color);
+}
+
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
