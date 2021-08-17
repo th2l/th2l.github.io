@@ -1,12 +1,19 @@
 ---
 layout: meminfo
 title: Prof. Soo-Hyung Kim
-#description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+lastname: Kim
+description:
 importance: 1
 category: work
+group: Professor
+group_rank: 0
 profile:
+  name: Prof. Soo-Hyung Kim
+  position: Head of the Pattern Recognition Lab
   align: right
   image: prof_pic.png
+  email: shkim (at) jnu.ac.kr
+  orcid: 0000-0003-3575-5035
 ---
 
 
