@@ -2,6 +2,8 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
@@ -18,6 +20,11 @@ a, table.table a {
     width: 100%;
   }
 }
+//  font-family: 'Gowun Batang', serif;
+ol.space_list li { margin-bottom: 1em;}
+ol.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
+ul.space_list li { margin-bottom: 1em;}
+ul.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
 
 blockquote {
   background: var(--global-bg-color);

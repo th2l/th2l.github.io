@@ -7,520 +7,1057 @@ title: International Conferences
 nav: false
 ---
 
-1.  Van Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Huyng Kim, "Temporal Convolution Networks with Positional Encoding for Evoked Expression Estimation," _AUVi workshop in CVPR 2021_, accepted in June 2021. (BRL2/지역우수2)
+<ol class=space_list>
 
 
-2.  Songa Kim, Van Thong Huynh, Dung Tran Thi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim, "The 2nd Korean Emotion Recognition Challenge: Methods and Results," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
+<li>Van Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Huyng Kim,
+"Temporal Convolution Networks with Positional Encoding for Evoked Expression Estimation,"
+<i>AUVi workshop in CVPR 2021</i>, accepted in June 2021. (BRL2/지역우수2)
+</li>
 
 
-3.  Trung-Le Phan, Soo-Hyung Kim, Guee-Sang Lee, Hyung-Jeong Yang, "Enhancing 3D U-Net for Volumetric Segmentation of Brain MRI with Deep Supervision," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
+<li>Songa Kim, Van Thong Huynh, Dung Tran Thi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim,
+"The 2nd Korean Emotion Recognition Challenge: Methods and Results,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
+</li>
 
 
-4.  Nhu-Tai Do, Sung-Taek Jung, Soo-Hyung Kim, "Boosting up knee bone tumor detection from radiology and magnetic resonance imaging by using deep learning techniques," _Proc. AACR Virtual Special Conf. Artificial Intelligence, Diagnosis, and Imaging_, Jan. 2021.
+<li>Trung-Le Phan, Soo-Hyung Kim, Guee-Sang Lee, Hyung-Jeong Yang,
+"Enhancing 3D U-Net for Volumetric Segmentation of Brain MRI with Deep Supervision,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
+</li>
 
 
-5.  Hung Thanh Vo, Sae-Ryung Kang, In-Jae Oh, Soo-Hyung Kim, "Improving lung cancer survival analysis from CT images by saliency sampling," _Proc. AACR Virtual Special Conf. Artificial Intelligence, Diagnosis, and Imaging_, Jan. 2021.
+<li>Nhu-Tai Do, Sung-Taek Jung, Soo-Hyung Kim,
+"Boosting up knee bone tumor detection from radiology and magnetic resonance imaging by using deep learning techniques,"
+<i>Proc. AACR Virtual Special Conf. Artificial Intelligence, Diagnosis, and Imaging</i>, Jan. 2021.
+</li>
 
 
-6.  Riseul Ryu, Soonja Yeom, Soo-Hyung Kim, "Continuous multibiometric authentication for online exam with machine learning," submitted to the Australasian Conference on Information Systems, Wellington, Australia, Dec. 2020.
+<li>Hung Thanh Vo, Sae-Ryung Kang, In-Jae Oh, Soo-Hyung Kim,
+"Improving lung cancer survival analysis from CT images by saliency sampling,"
+<i>Proc. AACR Virtual Special Conf. Artificial Intelligence, Diagnosis, and Imaging</i>, Jan. 2021.
+</li>
 
 
-7.  Nhu-Tai Do, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim, "Affective Expression Analysis in-the-Wild using Multi-Task Temporal Statistical Deep Learning Model," _Proc. 15th IEEE International Conference on Automatic Face and Gesture Recognition_ (FG 2020), doi: 10.1109/FG47880.2020.00093, pp. 624-628, Buenos Aires, Argentina, Nov. 2020. (BRL/지역우수)
 
+<li>Riseul Ryu, Soonja Yeom, Soo-Hyung Kim,
+"Continuous multibiometric authentication for online exam with machine learning,"
+submitted to the Australasian Conference on Information Systems, Wellington, Australia, Dec. 2020.
+</li>
 
-8.  Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Multimodality Pain and related Behaviors Recognition based on Attention Learning," _Proc. 15th IEEE International Conference on Automatic Face and Gesture Recognition_ (FG 2020), doi: 10.1109/FG47880.2020.00034, pp. 814-818, Buenos Aires, Argentina, Nov. 2020. (BRL/지역우수)
 
 
-9.  Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim, "Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data," _Proc. 2020 Int. Conf. Smart Media and Applications_, Jeju, Korea, pp. 280-282, Sep. 2020. (MdPhD/미래연구) (Best Paper Award)
+<li>Nhu-Tai Do, Tram-Tran Nguyen-Quynh, Soo-Hyung Kim,
+"Affective Expression Analysis in-the-Wild using Multi-Task Temporal Statistical Deep Learning Model,"
+<i>Proc. 15th IEEE International Conference on Automatic Face and Gesture Recognition</i> (FG 2020), doi: 10.1109/FG47880.2020.00093,
+pp. 624-628, Buenos Aires, Argentina, Nov. 2020. (BRL/지역우수)
+</li>
 
 
-10.  Van Thong Huynh, Soo-Hyung Kim, Hyungjeong Yang, Gueesang Lee and Jung-Hee Kim, "Multimodal Fusion with Attention Mechanism for Trustworthiness Prediction in Car Advertisements," _Proc. 2020 Int. Conf. Smart Media and Applications_, Jeju, Korea, pp. 277-279, Sep. 2020. (BRL2/NRF2)
+<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
+"Multimodality Pain and related Behaviors Recognition based on Attention Learning,"
+<i>Proc. 15th IEEE International Conference on Automatic Face and Gesture Recognition</i> (FG 2020), doi: 10.1109/FG47880.2020.00034,
+pp. 814-818, Buenos Aires, Argentina, Nov. 2020. (BRL/지역우수)
+</li>
 
 
-11.  Inha Seo, Thi Tuong Vi Vo, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim "KERC 2019: The 1st Korean Emotion Recognition Challenge," _Proc. 2020 Int. Conf. Smart Media and Applications_, Jeju, Korea, pp. 213-216, Sep. 2020. (BRL2/UNITEF)
 
+<li>Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim,
+"Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data,"
+<i>Proc. 2020 Int. Conf. Smart Media and Applications</i>, Jeju, Korea, pp. 280-282, Sep. 2020. (MdPhD/미래연구)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
-12.  Mang Tik Chiu, Xingqian Xu, Van Thong Huynh, Soo-Hyung Kim, et. al., "The 1st Agriculture-Vision Challenge: Methods and Results," _Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)_, Seattle, USA, pp. 212-218, DOI: 10.1109/CVPRW50498.2020.00032. June, 2020.
+<li>Van Thong Huynh, Soo-Hyung Kim, Hyungjeong Yang, Gueesang Lee and Jung-Hee Kim,
+"Multimodal Fusion with Attention Mechanism for Trustworthiness Prediction in Car Advertisements,"
+<i>Proc. 2020 Int. Conf. Smart Media and Applications</i>, Jeju, Korea, pp. 277-279, Sep. 2020. (BRL2/NRF2)
+</li>
 
+<li>Inha Seo, Thi Tuong Vi Vo, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim
+"KERC 2019: The 1st Korean Emotion Recognition Challenge,"
+<i>Proc. 2020 Int. Conf. Smart Media and Applications</i>, Jeju, Korea, pp. 213-216, Sep. 2020. (BRL2/UNITEF)
+</li>
 
-13.  Van Thong Huynh, Aran Oh, Soo-Hyung Kim, Guee-Sang Lee, and Hyung-Jeong Yang, "Estimate Engagement Intensity with Eye Movements," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/지역우수)
 
+<li>Mang Tik Chiu, Xingqian Xu, Van Thong Huynh, Soo-Hyung Kim, et. al.,
+"The 1st Agriculture-Vision Challenge: Methods and Results,"
+<i>Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</i>, Seattle, USA,
+pp. 212-218, DOI: 10.1109/CVPRW50498.2020.00032. June, 2020.
+</li>
 
-14.  Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, "Lung tumor segmentation by fusing 2D and 3D models," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/의사과학자/미래연구)
 
+<li>Van Thong Huynh, Aran Oh, Soo-Hyung Kim, Guee-Sang Lee, and Hyung-Jeong Yang,
+"Estimate Engagement Intensity with Eye Movements,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/지역우수)
+</li>
 
-15.  Duc-Ky Ngo, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee, "Hierarchical Attention Network for Brain Tumor Segmentation in MR Images," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/의사과학자/미래연구)
+<li>Minh-Trieu Tran, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee,
+"Lung tumor segmentation by fusing 2D and 3D models,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/의사과학자/미래연구)
+</li>
 
+<li>Duc-Ky Ngo, Soo-Hyung Kim, Hyung-Jeong Yang and Guee-Sang Lee,
+"Hierarchical Attention Network for Brain Tumor Segmentation in MR Images,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL/의사과학자/미래연구)
+</li>
 
-16.  Trinh Le Ba Khanh, Tran Thi Dung, Guee Sang Lee, Soo Hyung Kim, and Hyung-Jeong Yang, "Improved U-Net for Medical Image Segmentation using Attention Gate," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL)
+<li>Trinh Le Ba Khanh, Tran Thi Dung, Guee Sang Lee, Soo Hyung Kim, and Hyung-Jeong Yang,
+"Improved U-Net for Medical Image Segmentation using Attention Gate,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2020), Kagoshima, Japan, Feb. 2020. (BRL)
+</li>
 
 
-17.  Tram-Tran Nguyen-Quynh, Nhu-Tai Do, Soo-Hyung Kim, "MLEU: Multi-Level Embedding U-Net for Fully Automatic Image Colorization," _Proc. Int. Conf. Machine Learning and Smart Computing_(ICMLSC 2020), pp. 119-123, Haiphong City, Vietnam, Jan. 2020. (BRL) (Best Presentation Award)
+<li>Tram-Tran Nguyen-Quynh, Nhu-Tai Do, Soo-Hyung Kim,
+"MLEU: Multi-Level Embedding U-Net for Fully Automatic Image Colorization,"
+<i>Proc. Int. Conf. Machine Learning and Smart Computing</i>(ICMLSC 2020), pp. 119-123, Haiphong City, Vietnam, Jan. 2020. (BRL)
+(<font color="0000ff">Best Presentation Award</font>)
+</li>
 
 
-18.  Soyeon Kim, Cuong Pham, Hyungjeong Yang, Hyungseok Kim, Soohyung Kim, "Age Estimation from Mandible CT Voxels using 3D CNN Model," _Proc. 2019 Int. Conf. Smart Media and Applications_, Guam, USA, pp. 81-84, Dec. 2019. (지역우수/국과수) (Best Paper Award)
 
+<li>Soyeon Kim, Cuong Pham, Hyungjeong Yang, Hyungseok Kim, Soohyung Kim,
+"Age Estimation from Mandible CT Voxels using 3D CNN Model,"
+<i>Proc. 2019 Int. Conf. Smart Media and Applications</i>, Guam, USA, pp. 81-84, Dec. 2019. (지역우수/국과수)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
-19.  Vo Thi Tuong Vi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, "Multiple Filter U-net for Liver Segmentation from CT Images," _Proc. 2019 Int. Conf. Smart Media and Applications_, Guam, USA, pp. 54-58, Dec. 2019. (의사과학자/BRL) (Best Paper Award)
+<li>Vo Thi Tuong Vi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim,
+"Multiple Filter U-net for Liver Segmentation from CT Images,"
+<i>Proc. 2019 Int. Conf. Smart Media and Applications</i>, Guam, USA, pp. 54-58, Dec. 2019. (의사과학자/BRL)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
+<li>Thanh-Hung Vo, SoonJa Yeom, In-Seop Na, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim,
+"Combination of CNN and RNN for Speech Emotion Recognitionl,"
+<i>Proc. 2019 Int. Conf. Smart Media and Applications</i>, Guam, USA, pp. 163-166, Dec. 2019. (BRL/지역우수)
+</li>
 
-20.  Thanh-Hung Vo, SoonJa Yeom, In-Seop Na, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim, "Combination of CNN and RNN for Speech Emotion Recognitionl," _Proc. 2019 Int. Conf. Smart Media and Applications_, Guam, USA, pp. 163-166, Dec. 2019. (BRL/지역우수)
+<li>Minh-Trieu Tran, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"Utilizing 3D information from three-dimensional images in lung tumor segmentation,"
+<i>Proc. 2019 Int. Conf. Smart Media and Applications</i>, Guam, USA, pp. 59-63, Dec. 2019. (BRL/의사과학자)
+</li>
 
 
-21.  Minh-Trieu Tran, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "Utilizing 3D information from three-dimensional images in lung tumor segmentation," _Proc. 2019 Int. Conf. Smart Media and Applications_, Guam, USA, pp. 59-63, Dec. 2019. (BRL/의사과학자)
 
+<li>Van Thong Huynh, Soo-Hyung Kim, Guee-Sang Lee, Hyung-Jeong Yang,
+"Eye Semantic Segmentation with A Lightweight Model,"
+<font color="ff00ff"><i>Proc. 2019 IEEE Int. Conf. Computer Vision Workshop - Eye Tracking for VR and AR </i>(ICCVW 2019)</font>, pp. 3704-3707, Seoul, Korea, Nov. 2019. (BRL/지역우수)
+</li>
 
-22.  Van Thong Huynh, Soo-Hyung Kim, Guee-Sang Lee, Hyung-Jeong Yang, "Eye Semantic Segmentation with A Lightweight Model," _Proc. 2019 IEEE Int. Conf. Computer Vision Workshop - Eye Tracking for VR and AR_ (ICCVW 2019), pp. 3704-3707, Seoul, Korea, Nov. 2019. (BRL/지역우수)
+<li>Xuan-Bac Nguyen, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"Audio-Video based Emotion Recognition Using Minimum Cost Flow Algorithml,"
+<font color="ff00ff"><i>Proc. 2019 IEEE Int. Conf. Computer Vision Workshop - Multi-Modal Video Analysis and Moments in Time Challenge</i>(ICCVW 2019)</font>, pp. 3737-3741, Seoul, Korea, Nov. 2019. (BRL)
+</li>
 
 
-23.  Xuan-Bac Nguyen, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "Audio-Video based Emotion Recognition Using Minimum Cost Flow Algorithml," _Proc. 2019 IEEE Int. Conf. Computer Vision Workshop - Multi-Modal Video Analysis and Moments in Time Challenge_(ICCVW 2019), pp. 3737-3741, Seoul, Korea, Nov. 2019. (BRL)
 
+<li>Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
+"Engagement Intensity Prediction with Facial Behavior Features,"
+<i>Proc. 2019 ACM Int. Conf. Multimodal Interaction</i>(ICMI 2019), pp. 567-571, Suzhou, China, Oct. 2019. (BRL/지역우수)
+(<font color="0000ff">Winner of EmotiW 2019 Engagement Prediction Challenge</font>)
+</li>
 
-24.  Van Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Engagement Intensity Prediction with Facial Behavior Features," _Proc. 2019 ACM Int. Conf. Multimodal Interaction_(ICMI 2019), pp. 567-571, Suzhou, China, Oct. 2019. (BRL/지역우수) (Winner of EmotiW 2019 Engagement Prediction Challenge)
+<li>Tien X. Dang, Thanh-Hung Vo, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
+"Group-level Cohesion Prediction using Deep Learning Models with A Multi-stream Hybrid Network,"
+<i>Proc. 2019 ACM Int. Conf. Multimodal Interaction</i>(ICMI 2019), pp. 572-576, Suzhou, China, Oct. 2019. (BRL)
+(<font color="0000ff">Winner of EmotiW 2019 Group Cohesion Challenge</font>)
+</li>
 
 
-25.  Tien X. Dang, Thanh-Hung Vo, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Group-level Cohesion Prediction using Deep Learning Models with A Multi-stream Hybrid Network," _Proc. 2019 ACM Int. Conf. Multimodal Interaction_(ICMI 2019), pp. 572-576, Suzhou, China, Oct. 2019. (BRL) (Winner of EmotiW 2019 Group Cohesion Challenge)
 
+<li>Ngoc Hoang Nguyen, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"Continuous Hand Gesture Spotting and Classification Using 3D Finger Joints Information,"
+<font color="ff00ff"><i>Proc. 2019 IEEE Int. Conf. Image Processing</i>(ICIP 2019)</font>, pp. 539-543, Taipei, Taiwan, Sep. 2019. (BRL)
+</li>
 
-26.  Ngoc Hoang Nguyen, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "Continuous Hand Gesture Spotting and Classification Using 3D Finger Joints Information," _Proc. 2019 IEEE Int. Conf. Image Processing_(ICIP 2019), pp. 539-543, Taipei, Taiwan, Sep. 2019. (BRL)
+<li>Son Thai Ly, Nhu-Tai Do, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"A 3D Face Modeling Approach for In-the-wild Facial Expression Recognition on Image Datasets,"
+<font color="ff00ff"><i>Proc. 2019 IEEE Int. Conf. Image Processing</i>(ICIP 2019)</font>, pp. 3492-3496, Taipei, Taiwan, Sep. 2019. (BRL)
+</li>
 
 
-27.  Son Thai Ly, Nhu-Tai Do, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "A 3D Face Modeling Approach for In-the-wild Facial Expression Recognition on Image Datasets," _Proc. 2019 IEEE Int. Conf. Image Processing_(ICIP 2019), pp. 3492-3496, Taipei, Taiwan, Sep. 2019. (BRL)
 
 
-28.  Mahima Maharjan, Soo-Hyung Kim, Soonja Yeom, and Si Fan, "Relationship Between Temporary Emotion of Students and Performance in Learning Through Comparing Facial Expression Analytics," _Proc. 2019 Int. Conf. Interfaces and Human Computer Interaction_(IHCI 2019), pp. 141-148, Porto, Pottugal, July 2019.
+<li>Mahima Maharjan, Soo-Hyung Kim, Soonja Yeom, and Si Fan,
+"Relationship Between Temporary Emotion of Students and Performance in Learning Through Comparing Facial Expression Analytics,"
+<i>Proc. 2019 Int. Conf. Interfaces and Human Computer Interaction</i>(IHCI 2019), pp. 141-148, Porto, Pottugal, July 2019.
+</li>
 
 
-29.  In Seop Na, Soo Hyung Kim, Chil Woo Lee, Nguyen Hai Duong, "Hand Component Decomposition for the Hand Gesture Recognition Based on FingerPaint Dataset," _Proc. 11th Int. Conf. Ubiquitous and Future Networks_(ICUFN 2019), pp. 564-566, Zagreb, Croatia, July 2019.
 
+<li>In Seop Na, Soo Hyung Kim, Chil Woo Lee, Nguyen Hai Duong,
+"Hand Component Decomposition for the Hand Gesture Recognition Based on FingerPaint Dataset,"
+<i>Proc. 11th Int. Conf. Ubiquitous and Future Networks</i>(ICUFN 2019), pp. 564-566, Zagreb, Croatia, July 2019.
+</li>
 
-30.  Son Thai Ly, Nhu-Tai Do, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "Multimodal 2D and 3D for In-the-wild Facial Expression Recognition," _Proc. 2019 IEEE CVPR Precognition Workshop_, Long Beach, USA, June 2019. (BRL)
+<li>Son Thai Ly, Nhu-Tai Do, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"Multimodal 2D and 3D for In-the-wild Facial Expression Recognition,"
+<i>Proc. 2019 IEEE CVPR Precognition Workshop</i>, Long Beach, USA, June 2019. (BRL)
+</li>
 
 
-31.  Nhu-Tai Do, Sang-Don Joo, Hyung-Jeong Yang, Sung Taek Jung and Soo-Hyung Kim, "Knee Bone Tumor Segmentation from radiographs using Seg-Unet with Dice Loss," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2019), Gangnung, Korea, Feb. 2019. (LINC+)
+<li>Nhu-Tai Do, Sang-Don Joo, Hyung-Jeong Yang, Sung Taek Jung and Soo-Hyung Kim,
+"Knee Bone Tumor Segmentation from radiographs using Seg-Unet with Dice Loss,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2019), Gangnung, Korea, Feb. 2019. (LINC+)
+</li>
 
+<li>Cuong Pham, Hai-Duong Nguyen, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim,
+"Improved Deep learning method for Bone Age Assessment using Deep Hierarchical Features,"
+<i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2019), Gangnung, Korea, Feb. 2019. (BRL/LINC+)
+</li>
 
-32.  Cuong Pham, Hai-Duong Nguyen, Guee-Sang Lee, Hyung-Jeong Yang and Soo-Hyung Kim, "Improved Deep learning method for Bone Age Assessment using Deep Hierarchical Features," _Proc. Int. Workshop on Frontiers in Computer Vision_(IWFCV 2019), Gangnung, Korea, Feb. 2019. (BRL/LINC+)
 
 
-33.  Thong Van Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, In-Seop Na, "Emotion Recognition by Integrating Eye Movement Analysis and Facial Expression Model," _Proc. Int. Conf. Machine Learning and Smart Computing_(ICMLSC 2019), pp. 166-169, DaLat, Vietnam, Jan. 2019. (BRL/GCS)
+<li>Thong Van Huynh, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, In-Seop Na,
+"Emotion Recognition by Integrating Eye Movement Analysis and Facial Expression Model,"
+<i>Proc. Int. Conf. Machine Learning and Smart Computing</i>(ICMLSC 2019), pp. 166-169, DaLat, Vietnam, Jan. 2019. (BRL/GCS)
+</li>
 
+<li>Tien X. Dang, Aran Oh, In-Seop Na, Soo-Hyung Kim,
+"The Role of Attention Mechanism and Multi-Feature in Image Captioning,"
+<i>Proc. Int. Conf. Machine Learning and Smart Computing</i>(ICMLSC 2019), pp. 170-174, DaLat, Vietnam, Jan. 2019. (BRL/지역우수)
+</li>
 
-34.  Tien X. Dang, Aran Oh, In-Seop Na, Soo-Hyung Kim, "The Role of Attention Mechanism and Multi-Feature in Image Captioning," _Proc. Int. Conf. Machine Learning and Smart Computing_(ICMLSC 2019), pp. 170-174, DaLat, Vietnam, Jan. 2019. (BRL/지역우수)
 
 
-35.  Nhu-Tai Do, In-Seop Na, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim, "Forensics Face Detection From GANs Using Convolutional Neural Network," _Proc. 2018 Int. Symp. Information Technology Convergence_, pp. 376-379, Jeonju, Korea, Oct. 2018. (BRL/GCS)
 
+<li>Nhu-Tai Do, In-Seop Na, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
+"Forensics Face Detection From GANs Using Convolutional Neural Network,"
+<i>Proc. 2018 Int. Symp. Information Technology Convergence</i>, pp. 376-379, Jeonju, Korea, Oct. 2018. (BRL/GCS)
+</li>
 
-36.  Son Thai Ly, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, "3D Convolution and Convolution LSTM for Gesture-based Emotion Recognition," _Proc. 2018 Int. Symp. Information Technology Convergence_, pp. 554-557, Jeonju, Korea, Oct. 2018. (BRL)
+<li>Son Thai Ly, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang,
+"3D Convolution and Convolution LSTM for Gesture-based Emotion Recognition,"
+<i>Proc. 2018 Int. Symp. Information Technology Convergence</i>, pp. 554-557, Jeonju, Korea, Oct. 2018. (BRL)
+</li>
 
+<li>Tien Anh Nguyen, Hyung-Jeong Yang, Trinh Khanh Le Ba, Luu-Ngoc Do, Soo-Hyung Kim, Gueesang Lee,
+"Quality Evaluation of Synthesized Human Face Images From Generative Adversarial Network,"
+<i>Proc. 6th Int. Conf. Big Data Applications and Services</i>, pp. 180-185, Zhengzhou, China, August 2018. (BRL)
+</li>
 
-37.  Tien Anh Nguyen, Hyung-Jeong Yang, Trinh Khanh Le Ba, Luu-Ngoc Do, Soo-Hyung Kim, Gueesang Lee, "Quality Evaluation of Synthesized Human Face Images From Generative Adversarial Network," _Proc. 6th Int. Conf. Big Data Applications and Services_, pp. 180-185, Zhengzhou, China, August 2018. (BRL)
 
+<li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Luu-Ngoc Do, Soo-Hyung Kim, Gueesang Lee,
+"Early Fusion-based Emotion Recognition Using Multiple Audio Features from GMM Supervector and Deep Convolutional Neural Network,"
+<i>Proc. 6th Int. Conf. Big Data Applications and Services</i>, pp. 78-84, Zhengzhou, China, August 2018. (BRL)
+</li>
 
-38.  Ngoc-Huynh Ho, Hyung-Jeong Yang, Luu-Ngoc Do, Soo-Hyung Kim, Gueesang Lee, "Early Fusion-based Emotion Recognition Using Multiple Audio Features from GMM Supervector and Deep Convolutional Neural Network," _Proc. 6th Int. Conf. Big Data Applications and Services_, pp. 78-84, Zhengzhou, China, August 2018. (BRL)
+<li>Dinh-Son Tran, Hyung-Jeong Yang, Soo-Hyung Kim, Guee Sang Lee, Mi-sun Kim,
+"Hand Gesture Recognition in Depth Videos using 3 Dimensional Convolution Neural Network,"
+<i>Proc. Int. Conf. Big data, IoT, and Cloud Computing </i>, Jeju, Korea, August 2018. (GCS)
+</li>
 
 
-39.  Dinh-Son Tran, Hyung-Jeong Yang, Soo-Hyung Kim, Guee Sang Lee, Mi-sun Kim, "Hand Gesture Recognition in Depth Videos using 3 Dimensional Convolution Neural Network," _Proc. Int. Conf. Big data, IoT, and Cloud Computing_ , Jeju, Korea, August 2018. (GCS)
 
+<li>In Seop Na, Soo Hyung Kim, Guee Sang Lee, Hyung Jeong Yang,
+"Design of Non-Contact Multi-Modal Emotion Recognition System,"
+<i>Proc. 2018 Int. Conf. Smart Media and Applications</i>, Univ. Salamanca, Spain, pp. 122-125, June 2018. (BRL)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
-40.  In Seop Na, Soo Hyung Kim, Guee Sang Lee, Hyung Jeong Yang, "Design of Non-Contact Multi-Modal Emotion Recognition System," _Proc. 2018 Int. Conf. Smart Media and Applications_, Univ. Salamanca, Spain, pp. 122-125, June 2018. (BRL) (Best Paper Award)
+<li>Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, In-Seop Na,
+"Multi - Transfer Models for Tampered Face GAN Image Detection,"
+<i>Proc. 2018 Int. Conf. Smart Media and Applications</i>, pp. 141-143, Univ. Salamanca, Spain, June 2018. (BRL)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
+<li>Son Thai Ly, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, In-Seop Na,
+"Target Person Detection for Emotion Recognition in Action-based Videos,"
+<i>Proc. 2018 Int. Conf. Smart Media and Applications</i>, pp. 144-146, Univ. Salamanca, Spain, June 2018. (BRL)
+</li>
 
-41.  Nguyen Ngoc Hoang, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, In-Seop Na, "Multi - Transfer Models for Tampered Face GAN Image Detection," _Proc. 2018 Int. Conf. Smart Media and Applications_, pp. 141-143, Univ. Salamanca, Spain, June 2018. (BRL) (Best Paper Award)
 
 
-42.  Son Thai Ly, Guee-Sang Lee, Soo-Hyung Kim, Hyung-Jeong Yang, In-Seop Na, "Target Person Detection for Emotion Recognition in Action-based Videos," _Proc. 2018 Int. Conf. Smart Media and Applications_, pp. 144-146, Univ. Salamanca, Spain, June 2018. (BRL)
+<li> Hai-Duong Nguyen, Soonja Yeom, Il-Seok Oh, Kyoung-Min Kim, Soo-Hyung Kim,
+“Facial Expression Recognition Using a Multi-level Convolutional Neural Network,”
+<i>Proc. Int. Conf. Pattern Recognition and Artificial Intelligence</i>, pp. 217-221, Montreal, Canada, May 2018. (BRL/지역우수)
+</li>
 
+<li> Nhu-Tai Do, In-Seop Na and Soo-Hyung Kim,
+“Face Tracking with Convolutional Neural Network Heat-Map,”
+<i>Proc. 2nd Int. Conf. Machine Learning and Soft Computing</i>, pp. 29-33, Phu Quoc, Vietnam, Feb. 2018. (BRL/GCS)
+</li>
 
-43.  Hai-Duong Nguyen, Soonja Yeom, Il-Seok Oh, Kyoung-Min Kim, Soo-Hyung Kim, “Facial Expression Recognition Using a Multi-level Convolutional Neural Network,” _Proc. Int. Conf. Pattern Recognition and Artificial Intelligence_, pp. 217-221, Montreal, Canada, May 2018. (BRL/지역우수)
+<li> Dinh-Son Tran, Hyung-Jeong Yang, Soo-Hyung Kim, Guee Sang Lee, Luu-Ngoc Do, Ngoc-Huynh Ho and Van Quan Nguyen,
+“Audio-based Emotion Recognition using GMM Supervector an SVM Linear Kernel,”
+<i>Proc. 2nd Int. Conf. Machine Learning and Soft Computing</i>, pp. 169-173, Phu Quoc, Vietnam, Feb. 2018. (BRL)
+(<font color="0000ff">Best Presentation Award</font>)
+</li>
 
+<li> Thong Huynh-Van, Trinh Le Ba Khanh, Tuan Anh Tran, Khuong Nguyen-An, Hyung-Jeong Yang, Soo-Hyung Kim,
+“Learning to Detect Tables in Document Images using Line and Text Information,”
+<i>Proc. 2nd Int. Conf. Machine Learning and Soft Computing</i>, pp. 151-155, Phu Quoc, Vietnam, Feb. 2018. (BRL)
+</li>
 
-44.  Nhu-Tai Do, In-Seop Na and Soo-Hyung Kim, “Face Tracking with Convolutional Neural Network Heat-Map,” _Proc. 2nd Int. Conf. Machine Learning and Soft Computing_, pp. 29-33, Phu Quoc, Vietnam, Feb. 2018. (BRL/GCS)
+<li> Do Luu Ngoc, 양형정, Ho Ngoc Huynh, 김수형, 이귀상,
+"A Fusion  Model for Emotion Recognition from Audio- Video Data,"
+<i>Proc. 5th Int. Conf. BigDAS</i>, pp. 25-29, Jeju, Korea, Nov. 2017. (BRL)
+</li>
 
 
-45.  Dinh-Son Tran, Hyung-Jeong Yang, Soo-Hyung Kim, Guee Sang Lee, Luu-Ngoc Do, Ngoc-Huynh Ho and Van Quan Nguyen, “Audio-based Emotion Recognition using GMM Supervector an SVM Linear Kernel,” _Proc. 2nd Int. Conf. Machine Learning and Soft Computing_, pp. 169-173, Phu Quoc, Vietnam, Feb. 2018. (BRL) (Best Presentation Award)
+<li> Tien-Duong Vu, Ngoc-Huynh Ho, Jong-Min Joo, Soo-Hyung Kim, Young-Chul Kim, Hyung-Jeong Yang, Jahae Kim, Ho-Chun Song,
+"Detect Alzheimer’s disease by Multimodal Deep Learning Network using Convolutional Autoencoder,"
+<i>Proc. Int. Conf. Big data, IoT, and Cloud Computing</i>  (BIC 2017), Jeju, Korea, Aug. 2017. (지역혁신)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
 
-46.  Thong Huynh-Van, Trinh Le Ba Khanh, Tuan Anh Tran, Khuong Nguyen-An, Hyung-Jeong Yang, Soo-Hyung Kim, “Learning to Detect Tables in Document Images using Line and Text Information,” _Proc. 2nd Int. Conf. Machine Learning and Soft Computing_, pp. 151-155, Phu Quoc, Vietnam, Feb. 2018. (BRL)
 
+<li> Hai Duong Nguyen, Young Chul Kim, Soo Hyung Kim, In Seop Na,
+"A Method for Fingertips Detection using RGB-D Image and Convolution Neural Network,"
+<i>Proc. 13th Int. Conf. Natural Computation, Fuzzy Systems and Knowledge Discovery </i>(ICNC-FSKD 2017), Guilin, China, July 2017. (지역혁신/GCS)
+</li>
 
-47.  Do Luu Ngoc, 양형정, Ho Ngoc Huynh, 김수형, 이귀상, "A Fusion Model for Emotion Recognition from Audio- Video Data," _Proc. 5th Int. Conf. BigDAS_, pp. 25-29, Jeju, Korea, Nov. 2017. (BRL)
+<li> Hong Tai Tran, Min Ku Kwon, Guee Sang Lee, Hyung Jeong Yang, Young Chul Kim,In Seop Na, Soo Hyung Kim,
+"Human Face Tracking with Cascaded CNN Face Detector and Enhanced Active Appearance Model,"
+<i>Proc. 1st Int. Conf. Software & Smart Convergence</i>(ICSSC 2017), pp. 251-255, Vladivostok, Russia, June 2017. (GCS)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
+<li> Van Quan Nguyen, Huyng-Jeong Yang, Young-chul Kim, Soo-hyung Kim, Guee Sang Lee, Minku Kwon,
+"Design and Implementation of Event Detection System on Hadoop,"
+<i>Proc. 1st Int. Conf. Software & Smart Convergence</i>(ICSSC 2017), pp. 201-205, Vladivostok, Russia, June 2017.
+</li>
 
-48.  Tien-Duong Vu, Ngoc-Huynh Ho, Jong-Min Joo, Soo-Hyung Kim, Young-Chul Kim, Hyung-Jeong Yang, Jahae Kim, Ho-Chun Song, "Detect Alzheimer’s disease by Multimodal Deep Learning Network using Convolutional Autoencoder," _Proc. Int. Conf. Big data, IoT, and Cloud Computing_ (BIC 2017), Jeju, Korea, Aug. 2017. (지역혁신) (Best Paper Award)
+<li> Son Tung Trieu, Soo-hyung Kim, Huyng-Jeong Yang, Guee Sang Lee, Dong-Ok Cho, Jin-Gwang Koh,
+"Using Fully Convolutional Network for Text Detection,"
+<i>Proc. 1st Int. Conf. Software & Smart Convergence</i>(ICSSC 2017), pp. 211-215, Vladivostok, Russia, June 2017.
+</li>
 
 
-49.  Hai Duong Nguyen, Young Chul Kim, Soo Hyung Kim, In Seop Na, "A Method for Fingertips Detection using RGB-D Image and Convolution Neural Network," _Proc. 13th Int. Conf. Natural Computation, Fuzzy Systems and Knowledge Discovery_ (ICNC-FSKD 2017), Guilin, China, July 2017. (지역혁신/GCS)
 
+<li> Hai Duong Nguyen, In Seop Na, Soo-Hyung Kim,
+"Human Tracking using Convolution Neural Network and Hungarian Algorithm based on Drone Images,"
+<i>Proc. 12th Asia Pacific International Conference on Information Science and Technology</i>(APIC-IST 2017), pp. 288-290, June 2017. (NRF)
+</li>
 
-50.  Hong Tai Tran, Min Ku Kwon, Guee Sang Lee, Hyung Jeong Yang, Young Chul Kim,In Seop Na, Soo Hyung Kim, "Human Face Tracking with Cascaded CNN Face Detector and Enhanced Active Appearance Model," _Proc. 1st Int. Conf. Software & Smart Convergence_(ICSSC 2017), pp. 251-255, Vladivostok, Russia, June 2017. (GCS) (Best Paper Award)
 
+<li> Nguyen Hai Duong, In Seop Na, Soo Hyung Kim,
+"Facial Expression Recognition for Affective Computing by using Deep Learning Technique,"
+<i>Proc. Int. Conf. Smart Media and Applications</i>, pp. 90-93, Tasmania, Australia, Dec. 2016. (NRF)
+</li>
 
-51.  Van Quan Nguyen, Huyng-Jeong Yang, Young-chul Kim, Soo-hyung Kim, Guee Sang Lee, Minku Kwon, "Design and Implementation of Event Detection System on Hadoop," _Proc. 1st Int. Conf. Software & Smart Convergence_(ICSSC 2017), pp. 201-205, Vladivostok, Russia, June 2017.
+<li> Hong Tai Tran, Tuan Anh Tran, In Seop Na, Soo Hyung Kim,
+"Cell Decomposition for the Table in Document Image Based on Analysis of Texts and Lines Distribution,"
+<i>Proc. 8th Int. Conf. Ubiquitous and Future Networks</i>(ICUFN 2016),
+pp. 736-738, Vienna, Austria, July 2016. (NRF)
+</li>
 
+<li> In Seop Na, Soo Hyung Kim, Hong Tai Tran,
+"Text Block and White Space based Table Analysis for Document Image,"
+<i>Proc. 11th Asia Pacific Int. Conf. Information Science and Technology</i>,
+pp. 199-201, Hokkaido, Japan, June 2016. (NRF)
+</li>
 
-52.  Son Tung Trieu, Soo-hyung Kim, Huyng-Jeong Yang, Guee Sang Lee, Dong-Ok Cho, Jin-Gwang Koh, "Using Fully Convolutional Network for Text Detection," _Proc. 1st Int. Conf. Software & Smart Convergence_(ICSSC 2017), pp. 211-215, Vladivostok, Russia, June 2017.
+<li> In-Seop Na, Byeong-Soo Jung, Soo-Hyung Kim,
+"2D-Contour and 3D-Mesh Surface based Data Similarity Analysis in Lung Adenocarcinoma,"
+<i>Proc. 6th International Conference on Convergence Technology</i>,
+pp. 944-945, Jeju, Korea, June 2016. (NRF)
+</li>
 
 
-53.  Hai Duong Nguyen, In Seop Na, Soo-Hyung Kim, "Human Tracking using Convolution Neural Network and Hungarian Algorithm based on Drone Images," _Proc. 12th Asia Pacific International Conference on Information Science and Technology_(APIC-IST 2017), pp. 288-290, June 2017. (NRF)
 
+<li> Tuan Anh Tran, Hong Tai Tran, In Seop Na, Soo Hyung Kim,
+"Run Length Smoothing-Based Algorithm for Extracting Text Region in Document Layout Analysis,"
+<i>Proc. 4th Int. Conf. Smart Media and Applications</i>,
+pp. 109-112, Danang, Vietnam, Jan. 2016. (NRF)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
-54.  Nguyen Hai Duong, In Seop Na, Soo Hyung Kim, "Facial Expression Recognition for Affective Computing by using Deep Learning Technique," _Proc. Int. Conf. Smart Media and Applications_, pp. 90-93, Tasmania, Australia, Dec. 2016. (NRF)
+<li> Dieu Ni Tran, In Seop Na, A Ran Oh, Hyung-Jeong Yang, Soo Hyung Kim,
+"Identifying Header and Non-header on the Distinct Region to Extract Table from Document Image,"
+<i>Proc. 4th Int. Conf. Smart Media and Applications</i>,
+pp. 144-147, Danang, Vietnam, Jan. 2016. (NRF)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
+<li> Yu-ra Lee, Soo-hyung Kim, Young-chul Kim, In-seop Na, Dieu Ni Tran,
+"Gesture Recognition using 2-phase HMM based on Electronic Potential Sensor,"
+<i>Proc. 4th Int. Conf. Smart Media and Applications</i>,
+pp. 164-167, Danang, Vietnam, Jan. 2016. (NRF/지역혁신)
+</li>
 
-55.  Hong Tai Tran, Tuan Anh Tran, In Seop Na, Soo Hyung Kim, "Cell Decomposition for the Table in Document Image Based on Analysis of Texts and Lines Distribution," _Proc. 8th Int. Conf. Ubiquitous and Future Networks_(ICUFN 2016), pp. 736-738, Vienna, Austria, July 2016. (NRF)
 
+<li> Tran Tuan Anh, In-Seop Na, Soo-Hyung Kim,
+"A Hybrid Method for Table Detection from Document Image,"
+<i>Proc. Int. Conf. 3rd Asian Conference on Pattern Recognition</i>(CD-Pub),
+Kuala Lumpur Malaysia, Nov. 2015. (NRF)
+</li>
 
-56.  In Seop Na, Soo Hyung Kim, Hong Tai Tran, "Text Block and White Space based Table Analysis for Document Image," _Proc. 11th Asia Pacific Int. Conf. Information Science and Technology_, pp. 199-201, Hokkaido, Japan, June 2016. (NRF)
+<li> Vu Hoai Nam, Tran Tuan Anh, Na In Seop, Kim Soo-Hyung,
+"Automatic Extraction of Text Regions from Document Images by Multilevel Thresholding and K-means Clustering,"
+<i>Proc. 14th IEEE/ACIS International Conference on Computer and Information Science</i>,
+pp. 329-334, Las Vegas, USA, June 2015. (NRF2)
+</li>
 
+<li> Tuan Anh Tran, In Seop Na, A Ran Oh and Soo Hyung Kim,
+"Text and Non-text Classification in Page Segmentation using a Recursive Filter,"
+<i>Proc. 7th Int. Conf. Computer Research and Development</i>(CD-Pub),
+Ho Chi Minh City, Vietnam, Feb. 2015. (NRF2)
+</li>
 
-57.  In-Seop Na, Byeong-Soo Jung, Soo-Hyung Kim, "2D-Contour and 3D-Mesh Surface based Data Similarity Analysis in Lung Adenocarcinoma," _Proc. 6th International Conference on Convergence Technology_, pp. 944-945, Jeju, Korea, June 2016. (NRF)
+<li> Kang Han Oh, Soo Hyung Kim and Myungeun Lee,
+"Tumor Detection on Brain MR Images using Regional Features: method and preliminary results,"
+<i>Proc. 21st Korea-Japan joint Workshop on Frontiers of Computer Vision</i>(CD-Pub),
+Mokpo, Korea, Jan. 2015. (NRF2)
+</li>
 
+<li> Tran Tuan Anh, In Seop Na, and Soo-Hyung Kim,
+"Hybrid Page Segmentation using Multilevel Homogeneity Structure,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2015</font>(CD-Pub),
+Bali, Indonesia, Jan. 2015. (NRF2/Diotek)
+</li>
 
-58.  Tuan Anh Tran, Hong Tai Tran, In Seop Na, Soo Hyung Kim, "Run Length Smoothing-Based Algorithm for Extracting Text Region in Document Layout Analysis," _Proc. 4th Int. Conf. Smart Media and Applications_, pp. 109-112, Danang, Vietnam, Jan. 2016. (NRF) (Best Paper Award)
+<li> Kang Han Oh, Soo Hyung Kim and Young Chul Kim,
+"Saliency Object Detection by Combining Multiple Color Clustering,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2015</font>(CD-Pub),
+Bali, Indonesia, Jan. 2015. (NRF2/NRF-RI)
+</li>
 
 
-59.  Dieu Ni Tran, In Seop Na, A Ran Oh, Hyung-Jeong Yang, Soo Hyung Kim, "Identifying Header and Non-header on the Distinct Region to Extract Table from Document Image," _Proc. 4th Int. Conf. Smart Media and Applications_, pp. 144-147, Danang, Vietnam, Jan. 2016. (NRF) (Best Paper Award)
+<li> Kanghan Oh, Soo-Hyung Kim, Young-Chul Kim, Jin-Soo Jang,
+"Detection and Recognition of EPS Gestures by using SVM and Modified k-NN,"
+<i>Proc. Int. Conf. Smart Media and Applications</i> 2014(CD-Pub),
+Chiang Mai, Thailand, Dec. 2014. (ITRC)
+</li>
 
+<li> Hoai Nam Vu, Hoang Nam Bui, In Seop Na, Soo Hyung Kim,
+"Combination of LAG Model, Graph Model and Set Model for Music Score Recognition,"
+<i>Proc. Int. Conf. Smart Media and Applications</i> 2014(CD-Pub),
+Chiang Mai, Thailand, Dec. 2014. (ITRC/NRF2)
+</li>
 
-60.  Yu-ra Lee, Soo-hyung Kim, Young-chul Kim, In-seop Na, Dieu Ni Tran, "Gesture Recognition using 2-phase HMM based on Electronic Potential Sensor," _Proc. 4th Int. Conf. Smart Media and Applications_, pp. 164-167, Danang, Vietnam, Jan. 2016. (NRF/지역혁신)
+<li> Gwangbok Kim, Soo-Hyung Kim, and In Seop Na,
+"'Hybrid Page Segmentation based on Sliding Window using Local Stroke Width Variance,"
+<i>Proc. 2014 International Symposium on Information Technology Convergence</i>,
+pp. 92-95, Jeongju, Korea, Oct. 2014. (ITRC/Diotek)
+</li>
 
 
-61.  Tran Tuan Anh, In-Seop Na, Soo-Hyung Kim, "A Hybrid Method for Table Detection from Document Image," _Proc. Int. Conf. 3rd Asian Conference on Pattern Recognition_(CD-Pub), Kuala Lumpur Malaysia, Nov. 2015. (NRF)
+<li> Tam Nguyen, QuangNhat Vo, SooHyung Kim, HyungJeong Yang, GueeSang Lee,
+"A Novel and Effective Method for Specular Detection and Removal by Tensor Voting,"
+<i>Proc. IEEE International Conference on Image Processing</i>,
+pp. 1061-1065, Paris, France, Oct. 2014. (NRF/ITRC)
+</li>
 
+<li> Hoang-Nam Bui, In-Seop Na, Soo-Hyung Kim,
+"Staff Line Removal Using Line Adjacency Graph and Staff Line Skeleton for Camera-Based Printed Music Scores,"
+<i>Proc. 22nd International Conference on Pattern Recognition</i>,
+pp. 2787-2789, Stockholm, Sweden, Aug. 2014. (NRF/Samsung)
+</li>
 
-62.  Vu Hoai Nam, Tran Tuan Anh, Na In Seop, Kim Soo-Hyung, "Automatic Extraction of Text Regions from Document Images by Multilevel Thresholding and K-means Clustering," _Proc. 14th IEEE/ACIS International Conference on Computer and Information Science_, pp. 329-334, Las Vegas, USA, June 2015. (NRF2)
+<li> Hoang-Nam Bui, In-Seop Na, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim
+"Boosted Stable Path for Staff-line Detection Using Order Statistic Downscaling and Coarse-to-Fine Technique,"
+<i>Proc. 22nd International Conference on Pattern Recognition</i>,
+pp. 522-526, Stockholm, Sweden, Aug. 2014. (NRF/ITRC)
+</li>
 
+<li> Quang Nhat Vo, Tam Nguyen, SooHyung Kim, HyungJeong Yang, GueeSang Lee,
+"Distorted Music Score Recognition without Staffline Removal,"
+<i>Proc. 22nd International Conference on Pattern Recognition</i>,
+pp. 2956-2960, Stockholm, Sweden, Aug. 2014. (NRF/ITRC)
+</li>
 
-63.  Tuan Anh Tran, In Seop Na, A Ran Oh and Soo Hyung Kim, "Text and Non-text Classification in Page Segmentation using a Recursive Filter," _Proc. 7th Int. Conf. Computer Research and Development_(CD-Pub), Ho Chi Minh City, Vietnam, Feb. 2015. (NRF2)
+<li> Dung Phan, In-Seop Na, Soo-Hyung Kim, A-Ran Oh,
+"Triangulation Based Skeletonization of Handwritten Characters using Average Moving of Polygonal Contours,"
+<i>Proc. 9th Asia Pacific Int. Conf. Information Science and Technology</i>,
+pp. 183-191, Kathmandu, Nepal, July 2014. (NRF/NRF2)
+</li>
 
+<li> Trung Quy Nguyen, Dung Phan, In Seop Na, Soo Hyung Kim,
+"Knowledge-Based Optical Music Score Recognition in Mobile Devices,"
+<i>Proc. 9th Asia Pacific Int. Conf. Information Science and Technology</i>,
+pp. 171-177, Kathmandu, Nepal, July 2014. (Samsung/ITRC)
+</li>
 
-64.  Kang Han Oh, Soo Hyung Kim and Myungeun Lee, "Tumor Detection on Brain MR Images using Regional Features: method and preliminary results," _Proc. 21st Korea-Japan joint Workshop on Frontiers of Computer Vision_(CD-Pub), Mokpo, Korea, Jan. 2015. (NRF2)
+<li> Hoai Nam Vu, In Seop Na, Soo Hyung Kim,
+"Adaptive Correction of Distortions from Skeletonized Character Patterns,"
+<i>Proc. 10th Int. Conf. Multimedia Information Technology and Applications</i>,
+pp. 117-120, HKUST, Hong Kong, July 2014. (ITRC/NRF2)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
 
 
-65.  Tran Tuan Anh, In Seop Na, and Soo-Hyung Kim, "Hybrid Page Segmentation using Multilevel Homogeneity Structure," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2015(CD-Pub), Bali, Indonesia, Jan. 2015. (NRF2/Diotek)
 
+<li> Trung Quy Nguyen, Soo-Hyung Kim, In-Seop Na, G.S. Lee, and H.J. Yang,
+"Adaptive LineTrack Height Algorithm for Staff Line Removal from Music Score Images,"
+<i>Proc. 20th Korea-Japan Joint Workshop on Frontiers of Computer Vision</i>,
+pp. 325-329, Okinawa, Japan, Feb. 2014. (Samsung/NRF/NRF2)
+</li>
 
-66.  Kang Han Oh, Soo Hyung Kim and Young Chul Kim, "Saliency Object Detection by Combining Multiple Color Clustering," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2015(CD-Pub), Bali, Indonesia, Jan. 2015. (NRF2/NRF-RI)
 
 
-67.  Kanghan Oh, Soo-Hyung Kim, Young-Chul Kim, Jin-Soo Jang, "Detection and Recognition of EPS Gestures by using SVM and Modified k-NN," _Proc. Int. Conf. Smart Media and Applications_ 2014(CD-Pub), Chiang Mai, Thailand, Dec. 2014. (ITRC)
+<li> Dung Phan, In Seop Na and Soo-Hyung Kim,
+"Local Features and Histogram based  Planar Object Recognition,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2014</font>(CD-Pub),
+Siem Reap, Cambodia, Jan. 2014. (ITRC/NRF)
+</li>
 
+<li> Kang Han Oh, Soo-Hyung Kim and In Seop Na,
+"Saliency detection using Centroid Weight Map,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2014</font>(CD-Pub),
+Siem Reap, Cambodia, Jan. 2014. (ITRC/NRF2)
+</li>
 
-68.  Hoai Nam Vu, Hoang Nam Bui, In Seop Na, Soo Hyung Kim, "Combination of LAG Model, Graph Model and Set Model for Music Score Recognition," _Proc. Int. Conf. Smart Media and Applications_ 2014(CD-Pub), Chiang Mai, Thailand, Dec. 2014. (ITRC/NRF2)
+<li> Hong Quy Nguyen, H.J. Yang, Soo-Hyung Kim and G.S. Lee,
+"Automatic Touching Detection and Recognition of Music Chord using Auto-Encoding and Softmax,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2014</font>(CD-Pub),
+Siem Reap, Cambodia, Jan. 2014.
+</li>
 
 
-69.  Gwangbok Kim, Soo-Hyung Kim, and In Seop Na, "'Hybrid Page Segmentation based on Sliding Window using Local Stroke Width Variance," _Proc. 2014 International Symposium on Information Technology Convergence_, pp. 92-95, Jeongju, Korea, Oct. 2014. (ITRC/Diotek)
 
+<li> Dung Phan, Chi-Min Oh, Soo-Hyung Kim, In-Seop Na, Chil-Woo Lee,
+"Object Recognition by Combining Binary Local Invariant Features and Color Histogram,"
+<i>Proc. Asian Conf. Pattern Recognition</i> 2013, pp. 466-470,
+Okinawa, Japan, Nov. 2013. (ITRC/NRF/NRF2)
+</li>
 
-70.  Tam Nguyen, QuangNhat Vo, SooHyung Kim, HyungJeong Yang, GueeSang Lee, "A Novel and Effective Method for Specular Detection and Removal by Tensor Voting," _Proc. IEEE International Conference on Image Processing_, pp. 1061-1065, Paris, France, Oct. 2014. (NRF/ITRC)
 
+<li> Perdana Adhitama, Soo-Hyung Kim, In-Seop Na, "Printed Arabic Word Recognition Using HMM and
+Word Correction," <i>Proc. Int. Conf. Smart Media and Applications</i> 2013, pp. 1-8,
+Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF)
+(<font color="0000ff">Outstanding Paper Award</font>)
+</li>
 
-71.  Hoang-Nam Bui, In-Seop Na, Soo-Hyung Kim, "Staff Line Removal Using Line Adjacency Graph and Staff Line Skeleton for Camera-Based Printed Music Scores," _Proc. 22nd International Conference on Pattern Recognition_, pp. 2787-2789, Stockholm, Sweden, Aug. 2014. (NRF/Samsung)
+<li> Kanghan Oh, Soo-Hyung Kim, In-Seop Na, "Object Segmentation based on Saliency Detection and
+Grab Cut Algorithm," <i>Proc. Int. Conf. Smart Media and Applications</i> 2013, pp. 24-29,
+Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC)
+</li>
 
+<li> Sejin Han, GueeSang Lee, SooHyung Kim, HyungJeong Yang, "Optical Music Score Recognition System
+for Mobile Devices," <i>Proc. Int. Conf. Smart Media and Applications</i> 2013, pp. 120-127,
+Kota-Kinabalu, Malaysia, Oct. 2013.
+</li>
 
-72.  Hoang-Nam Bui, In-Seop Na, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim "Boosted Stable Path for Staff-line Detection Using Order Statistic Downscaling and Coarse-to-Fine Technique," _Proc. 22nd International Conference on Pattern Recognition_, pp. 522-526, Stockholm, Sweden, Aug. 2014. (NRF/ITRC)
+<li> Quy N. Trung, Dung Phan, Soo-Hyung Kim, In-Seop Na, Guee-Sang Lee, "Fast Object Detection by
+Recursive Scanning," <i>Proc. Int. Conf. Smart Media and Applications</i> 2013, pp. 136-142,
+Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF2)
+</li>
 
+<li> W.H. Cho, I.S. Na, S.C. Seo, S.J. Kang, S.H. Kim, "Image Retrieval Using the Local Image
+Descriptors and Dirichlet Process Gaussian Mixture Model," <i>Proc. Int. Conf. Smart Media and
+Applications</i> 2013, pp. 435-442, Kota-Kinabalu, Malaysia, Oct. 2013.
+</li>
 
-73.  Quang Nhat Vo, Tam Nguyen, SooHyung Kim, HyungJeong Yang, GueeSang Lee, "Distorted Music Score Recognition without Staffline Removal," _Proc. 22nd International Conference on Pattern Recognition_, pp. 2956-2960, Stockholm, Sweden, Aug. 2014. (NRF/ITRC)
+<li> Gwangbok Kim, SooHyung Kim, InSeop Na, Aran Oh, "Performance Evaluation of Binarization Methods
+for Music Sheet Documents," <i>Proc. Int. Conf. Smart Media and Applications</i> 2013, pp. 467-474,
+Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF)
+</li>
 
 
-74.  Dung Phan, In-Seop Na, Soo-Hyung Kim, A-Ran Oh, "Triangulation Based Skeletonization of Handwritten Characters using Average Moving of Polygonal Contours," _Proc. 9th Asia Pacific Int. Conf. Information Science and Technology_, pp. 183-191, Kathmandu, Nepal, July 2014. (NRF/NRF2)
-
-
-75.  Trung Quy Nguyen, Dung Phan, In Seop Na, Soo Hyung Kim, "Knowledge-Based Optical Music Score Recognition in Mobile Devices," _Proc. 9th Asia Pacific Int. Conf. Information Science and Technology_, pp. 171-177, Kathmandu, Nepal, July 2014. (Samsung/ITRC)
-
-
-76.  Hoai Nam Vu, In Seop Na, Soo Hyung Kim, "Adaptive Correction of Distortions from Skeletonized Character Patterns," _Proc. 10th Int. Conf. Multimedia Information Technology and Applications_, pp. 117-120, HKUST, Hong Kong, July 2014. (ITRC/NRF2) (Best Paper Award)
-
-
-77.  Trung Quy Nguyen, Soo-Hyung Kim, In-Seop Na, G.S. Lee, and H.J. Yang, "Adaptive LineTrack Height Algorithm for Staff Line Removal from Music Score Images," _Proc. 20th Korea-Japan Joint Workshop on Frontiers of Computer Vision_, pp. 325-329, Okinawa, Japan, Feb. 2014. (Samsung/NRF/NRF2)
-
-
-78.  Dung Phan, In Seop Na and Soo-Hyung Kim, "Local Features and Histogram based Planar Object Recognition," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2014(CD-Pub), Siem Reap, Cambodia, Jan. 2014. (ITRC/NRF)
-
-
-79.  Kang Han Oh, Soo-Hyung Kim and In Seop Na, "Saliency detection using Centroid Weight Map," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2014(CD-Pub), Siem Reap, Cambodia, Jan. 2014. (ITRC/NRF2)
-
-
-80.  Hong Quy Nguyen, H.J. Yang, Soo-Hyung Kim and G.S. Lee, "Automatic Touching Detection and Recognition of Music Chord using Auto-Encoding and Softmax," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2014(CD-Pub), Siem Reap, Cambodia, Jan. 2014.
-
-
-81.  Dung Phan, Chi-Min Oh, Soo-Hyung Kim, In-Seop Na, Chil-Woo Lee, "Object Recognition by Combining Binary Local Invariant Features and Color Histogram," _Proc. Asian Conf. Pattern Recognition_ 2013, pp. 466-470, Okinawa, Japan, Nov. 2013. (ITRC/NRF/NRF2)
-
-
-82.  Perdana Adhitama, Soo-Hyung Kim, In-Seop Na, "Printed Arabic Word Recognition Using HMM and Word Correction," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 1-8, Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF) (Outstanding Paper Award)
-
-
-83.  Kanghan Oh, Soo-Hyung Kim, In-Seop Na, "Object Segmentation based on Saliency Detection and Grab Cut Algorithm," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 24-29, Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC)
-
-
-84.  Sejin Han, GueeSang Lee, SooHyung Kim, HyungJeong Yang, "Optical Music Score Recognition System for Mobile Devices," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 120-127, Kota-Kinabalu, Malaysia, Oct. 2013.
-
-
-85.  Quy N. Trung, Dung Phan, Soo-Hyung Kim, In-Seop Na, Guee-Sang Lee, "Fast Object Detection by Recursive Scanning," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 136-142, Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF2)
-
-
-86.  W.H. Cho, I.S. Na, S.C. Seo, S.J. Kang, S.H. Kim, "Image Retrieval Using the Local Image Descriptors and Dirichlet Process Gaussian Mixture Model," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 435-442, Kota-Kinabalu, Malaysia, Oct. 2013.
-
-
-87.  Gwangbok Kim, SooHyung Kim, InSeop Na, Aran Oh, "Performance Evaluation of Binarization Methods for Music Sheet Documents," _Proc. Int. Conf. Smart Media and Applications_ 2013, pp. 467-474, Kota-Kinabalu, Malaysia, Oct. 2013. (ITRC/NRF)
-
-
-88.  In Seop Na, Wan Hyun Cho, Soo Hyung Kim, Soon-Ja Kang, T. Quy Nguyen, Jun Yong Choi, "Unsupervised Color Images Segmentation using Spatial Hidden MRF GDPM Model," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2013 (CD-Pub), Kota Kinabaru, Malaysia, Jan. 2013. (NRF2) (Best Paper Award)
-
-
-89.  Yen Do, Soo-Hyung Kim, In-Seop Na, Dae-Wook Kang, Jin-Hyung Kim, "Image Retrieval Using Wavelet Transform and Shape Decomposition," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2013 (CD-Pub), Kota Kinabaru, Malaysia, Jan. 2013. (NRF2)
-
-
-90.  Wan Hyun Cho, In Seop Na, Soo Hyung Kim, Jun Yong Choi and Jong Hyun Park, Dung Phan, "Automatic Clustering for Digital Photograph Collections Using Time and Content Information," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2013 (CD-Pub), Kota Kinabaru, Malaysia, Jan. 2013. (NRF2)
-
-
-91.  Ha Le, Soo-Hyung Kim and In-Seop Na, "Object Segmentation Based on Adaptive Contour Initialization for Level Set Method," _Proc. IEEE Int. Symp. Signal Processing and Information Technology_ 2012 (CD-Pub), Hochiminh City, Vietnam, Dec. 2012. (ITRC)
-
-
-92.  Yen Do, Soo Hyung Kim, In Seop Na, "Image Retrieval System Using The Decomposition of Shape Information," _Proc. IEEE Int. Symp. Signal Processing and Information Technology_ 2012 (CD-Pub), Hochiminh City, Vietnam, Dec. 2012. (ITRC)
-
-
-93.  Hoang-Nam Bui, Soo-Hyung Kim, In-Seop Na, "Illumination Compensation for Face Tracking on Smart Phones," _Proc. IEEE Int. Symp. Signal Processing and Information Technology_ 2012 (CD-Pub), Hochiminh City, Vietnam, Dec. 2012. (ITRC/Samsung)
-
-
-94.  Nguyen Tran Lan Anh, Vo Quang Nhat, Kodirov Elyor, Soo-Hyung Kim, Guee-Sang Lee, "Fast Automatic Saliency Map Driven Geometric Active Contour Model for Color Object Segmentation," _Proc. International Conference on Pattern Recognition_ 2012, pp. 2557-2560, Tsukuba, Japan, Nov. 2012.
-
-
-95.  K.H. Oh, I.S. Na, S.H. Kim, A.R. Oh, "Object Segmentation Based on Automatic Rectangle Estimation for GrabCut," _Proc. Int. Conf. Smart Media and Applications_ 2012 (CD-Pub), Kunming, China, Aug. 2012. (NRF/NRF2)
-
-
-96.  Yen Do, S.H. Kim, S.C. Park, and I.S. Na, "An Affine Invariant Feature Descriptor Based on Voronoi Diagram for Image Matching," _Proc. Int. Conf. Smart Media and Applications_ 2012 (CD-Pub), Kunming, China, Aug. 2012. (ITRC/NRF2) (Best Paper Award)
-
-
-97.  Ha Le, S.H. Kim, I.S. Na, "Unconstrained Object Segmentation Based on Selective Attention and Watershed Algorithm," _Proc. Int. Conf. Smart Media and Applications_ 2012 (CD-Pub), Kunming, China,, Aug. 2012. (ITRC/NRF) (Best Paper Award)
-
-
-98.  Do Yen, Soo Hyung Kim, Sang Cheol Park, Ha Le, Yan Juan Chen, Sun Hwa Jeong, In Seop Na, "Generation of Training Database Using a Noise Model for OCR Systems," _Proc. Int. Conf. Ubiquitous Information Management and Communication_ 2012 (CD-Pub), Kuala Lumpur, Malaysia, Feb. 2012. (NRF2)
-
-
-99.  K.H. Oh, S.H. Kim, S.C. Park, I.S. Na, Y.J. Chen, "Flower Area Segmentation by Combination of GMM Technique and RGB Clustering," _Proc. Int. Workshop on Advanced Image Technology_ 2012, pp. 730-732, Ho Chi Minh City, Vietnam, Jan. 2012. (NRF2)
-
-
-100.  Do Yen, Soo Hyung Kim, Sang Cheol Park, Ha Le, Yan Juan Chen, Sun Hwa Jeong, In Seop Na, "A Noise Model for Generating Synthetic Character Images for Training OCR Systems," _Proc. Int. Workshop on Advanced Image Technology_ 2012, pp. 166-170, Ho Chi Minh City, Vietnam, Jan. 2012. (NRF/ITRC)
-
-
-101.  Ha Le, S.H. Kim, S.C. Park, Do Yen, Y.J. Chen, S.H. Jeong, I.S. Na, "Automatic Generation of Database to Train New Fonts for OCR Systems," _Proc. Int. Workshop on Advanced Image Technology_ 2012, pp. 178-182, Ho Chi Minh City, Vietnam, Jan. 2012. (ITRC)
-
-
-102.  S.C. Park, Soo-Hyung Kim, G.S. Lee, C.W. Lee, I.S. Na, A.V.Ha Le, and Do Yen, "Flower Area Segmentation by a Level Set based on GMM Initialization," _Proc. KSII 3rd Int. Conf. Internet (ICONI)_, pp. 17-21, Sepang, Malaysia, Dec. 2011. (NRF/ITRC)
-
-
-103.  N.T.N. Anh, H.J. Yang, Soo-Hyung Kim, Sun-Hee Kim, "Hidden Dynamic Learning for Long-Interval Consecutive Missing Values Reconstruction in EEG Time Series," _Proc. IEEE Int. Conf. Granular Computing_, pp. 653-658, Kaosiung, Taiwan, Nov. 2011. (ITRC)
-
-
-104.  Myungeun Lee, Yanjuan Chen, Soohyung Kim, Jonghyo Kim, "Segmentation of the Pectoral Muscle Boundary in Breast MR Images," _Proc. 11th IEEE Int. Conf. Bioinformatics and Bioengineering_, pp. 323-326, Taichung, Taiwan, Oct. 2011.
-
-
-105.  Myungeun Lee, Yanjuan Chen, Soohyung Kim, Kwanggi Kim, "Geometric Active Model for Lesion Segmentation on Breast Ultrasound Images," _Proc. 11th IEEE Int. Conf. Computer and Information Technology_, pp. 150-157, Paphos, Cyprus, Aug. 2011.
-
-
-106.  Sang Cheol Park, In Seop Na, Soo Hyung Kim, Guee, Sang Lee, Kang Han Oh, and Jeong Hwan Kim, Tae Ho Han, "Lanes Detection in PCR Gel Electrophoresis Images," _Proc. 11th IEEE Int. Conf. Computer and Information Technology_, pp. 306-313, Paphos, Cyprus, Aug. 2011. (ITRC)
-
-
-107.  JunSik Lim, SooHyung Kim, GueeSang Lee, HyungJeong Yang, SangCheol Park and InSeop Na, "Skeletonization of Cursive Scripts In Wine Label Images," _Proc. 1st Yellow Sea Int. Conf. Ubiquitous Computing (YES-ICUC)_, CD-ROM publication, August 2011. (ITRC)
-
-
-108.  Myungeun Lee, Wanhyun Cho, Sunworl Kim, Yanjuan Chen, and Soohyung Kim, "3D Segmentation of Medical Volume Image using Hybrid Level Set Method," _Proc. SPIE Medical Imaging 2011_, pp. 7962-7965, San Diego, USA, Feb. 2011.
-
-
-109.  Chi-Min Oh, Md. Zahidul Islam, Jong-Gu Kim, Soo-Hyung Kim and Chil-Woo Lee, "2D Object Tracking with a Particle Filter and Improved Chamfer Matching," _Proc. 2011 Int. Conf. Embedded Systems and Intelligent Technology_ (CD-Pub), Phuket, Thailand, Feb. 2011.
-
-
-110.  Bin ZHENG, In Seop NA, Jun Sik LIM, Soo Hyung KIM, Guee Sang LEE, Hyeran Byun, Bong-Kee Sin, and Sang Cheol PARK, "Computer-aided Detection of Asymptomatic Interstitial Lung Diseases in CT Images," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 50-53, Fukuoka, Japan, Nov. 2010. (NRF)
-
-
-111.  I.S. Na, S.H. Kim, S.C. Park, and J.S. Lim, "Automatic Incident Detection for Intelligent Transportation," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 54-55, Fukuoka, Japan, Nov. 2010. (ITRC)
-
-
-112.  J.S. Lim, S.H. Kim, S.C. Park, and I.S. Na, "Correction of Text Region Distortion for Automatic Signboard Recognition," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 56-59, Fukuoka, Japan, Nov. 2010.
-
-
-113.  Yanjuan CHEN, Myungeun LEE, Soohyung KIM, "Wine Label Detection based on Mean Shift Algorithm," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 60-63, Fukuoka, Japan, Nov. 2010. (NRF)
-
-
-114.  Myungeun LEE, Wanhyun CHO, Soohyung KIM, Yanjuan CHEN, "Ultrasound Image Segmentation Based on Geometric Active Contour Model," _Proc 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 81-83, Fukuoka, Japan, Nov. 2010. (NRF)
-
-
-115.  Ngoc Anh Thi Nguyen, Sun Hee Kim, Hyung Jeong Yang, Soo-Hyung Kim, "Hidden variables detection based on incremental approach for non- stationary EEG signals classification," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 128-133, Fukuoka, Japan, Nov. 2010.
-
-
-116.  Inhye SEO, Soohyung KIM, Myungeun LEE, "Improvement of Chen-Vese Model Based an Adaptive Gray World Method for Automatic Flower Segmentation," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 177-179, Fukuoka, Japan, Nov. 2010. (ITRC)
-
-
-117.  Sun-Hee Kim, Hyung-Jeong Yang, Soo-Hyung Kim, "Electroencephalogram Analysis for Dynamics Forecasting of Epilepsy Seizure," _Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition_, pp. 180-184, Fukuoka, Japan, Nov. 2010.
-
-
-118.  J.H. Park, W.H. Cho, S.Y. Park, S.W. Kim, S.H. Kim, G.D. Ahn, M.E. Lee, G.S. Lee, "Segmentation of 3D Object in Volume Dataset Using Active Deformable Model," _Proc. Int. Conf. Image Processing_, pp. 4121-4124, Hong Kong, Sep. 2010. (ITRC)
-
-
-119.  Wanhyun Cho, Jonghyun Park, Soonyoung Park, Soohyung Kim, Sunwel Kim, Myungeun Lee, Gueesang Lee, "Level-Set Segmentation of Brain Tumors using a New Hybrid Speed Function," _Proc. Int. Conf. Pattern Recognition_, pp. 1545-1548, Istanbul, Turkey, Aug. 2010. (kosef)
-
-
-120.  J.H. Park, G.S. Lee, W.H. Cho, N. Toan, S.H. Kim, S.Y. Park, "Moving Object Detection based on Clausius Entropy," _Proc. 10th IEEE Int. Conf. Computer and Information Technology_, pp. 517-521, Bradford, UK, June 2010. (ITRC/kosef)
-
-
-121.  H.P. Le, T.N. Dinh, S.H. Kim, G.S. Lee, "Text Detection in Binarized Text Images of Korean Signboard by Stroke Width Feature," _Proc. 10th IEEE Int. Conf. Computer and Information Technology_, pp. 1588-1592, Bradford, UK, June 2010. (ITRC)
-
-
-122.  Myung-Eun Lee, Soo-Hyung Kim, W.H. Cho, S.W. Kim, J.H. Park, S.Y. Park, and J.S. Lim, "Medical image registration using the modified conditional entropy measure combining the spatial and intensity information," _Proc. SPIE Medical Imaging_ 2010, San Diego, USA, February 2010. (kosef)
-
-
-123.  In-Hye Seo, J.S. Kim, Soo-Hyung Kim, C.W. Lee, L.P. Huy, G.S. Lee, "Contents development using on-line character recognition in a tabletop display," _Proc. Int. Conf. Impact on Ubiquitous IT Co-Design to Industry_, pp. 29-33, Australia, Jan. 2010. (Outstanding Best Paper Award) (CT)
-
-
-124.  Myung-Eun Lee, Soo-Hyung Kim, and In-Hye Seo, "Intensity-based registration of medical images," _Proc. Int. Conf. Test and Measurement_ (ICTM 2009), pp. 239-242, Hong Kong, December 2009.
-
-
-125.  Toan Nguyen Dinh, Jonghyun Park, SooHyung Kim, Hyukro Park, and GueeSang Lee, "Automatic Image Restoration Based on Tensor Voting," _Proc. 16th Int. Conf. Neural Information Processing_ (also as in LNCS 5863), pp. 810-818, Thailand, Dec. 2009.
-
-
-126.  JunSik Lim, Soohyung Kim, JongHyun Park, GueeSang Lee, HyungJeong Yang and ChilWoo Lee, "Recognition of Text in Wine Label images," _Proc. 1st CJK Joint Workshop on Pattern Recognition_ (CJKPR 2009), pp. 911-915, Nanjing, China, November 2009.
-
-
-127.  J.H. Park, G.S. Lee, S.H. Kim, J.S. Lim, S.Y. Park, and W.H. Cho, "Integrated registration based on statistical modeling for medical volume images and its visualization," _Proc. Int. Conf. Image Processing, Computer Vision, and Pattern Recognition_ (IPCV 2009), pp. 632-637, Las Vegas, USA, July 2009.
-
-
-128.  T.Q. Vinh, S.M. Jang, Y.C. Kim, S.H. Kim, G.S. Lee, and S.H. Hong, "VLSI Design for Median-Based Edge-Directed Interlacing," _Proc. 2009 Int. Conf. Maritime Information and Communication Sciences_, pp. 40-43, Manila, Phillipines, June 2009.
-
-
-129.  Jonghyun Park, Wanhyun Cho, Soonyoung Park, Junsik Lim, Soohyung Kim, Gueesang Lee, "A Generic Framework of Integrating Segmentation and Registration," _Proc. 9th IEEE Int. Conference on Bioinformatics and Bioengineering_, pp. 38-44, Taichung, Taiwan, June 2009.
-
-
-130.  Myung-Eun Lee, Soo-Hyung Kim, Wan-Hyun Cho, Soon-Young Park, Jun-Sik Lim, "Segmentation of Brain MR Images using an Ant Colony Optimization Algorithm," _Proc. 9th IEEE Int. Conference on Bioinformatics and Bioengineering_, pp. 366-369, Taichung, Taiwan, June 2009.
-
-
-131.  A. Canedo-Rodriguez, Jung H. Kim, Soo-Hyung Kim, Y. Blanco-Fernandez, "English to Spanish Translation of Signboard Images from Mobile Phone Camera," _Proc. IEEE SoutheastCon 2009_, Atlanta, USA, March 2009. (CD-ROM Publication) (Best Paper Award)
-
-
-132.  W.H. Cho, J.H. Park, S.W. Kim, M.E. Lee, S.Y. Park, J.S. Lim, G.S. Lee, H.P. Le, S.H. Kim, and C.B. Jeong, "Multimodality imgae registration using ordinary Procrustes analysis," _Proc. SPIE Medical Imaging 2009_, Florida, USA, Feb. 2009. (CD-ROM Publication)
-
-
-133.  J.H. Park, G.S. Lee, E.C. Kim, J.S. Lim, S.H. Kim, H.J. Yang, S.W. Oh, "Automatic Detection and Recognition of Shop Name in Outdoor Signboard Images," _Proc. 8th IEEE International Symposium on Signal Processing and Information Technology_, pp. 111-116, Bosnia, Dec. 2008.
-
-
-134.  W.H. Cho, S.W. Kim, M.E. Lee, S.H. Kim, S.Y. Park, and C.B. Jeong, "Multimodality Image Registration Using Ordinary Procrustes Analysis and Entropy of Bivariate Normal Kernel Density," _Proc. 8th IEEE International Conf. BioInformatics and BioEngineering_, Athens, Greece, Oct. 2008. (CD version)
-
-
-135.  X. Zhao, M.E. Lee, and S.H. Kim, "Improved Image Thresholding using Ant Colony Optimization Algorithm," _Proc. 7th International Conference on Advanced Language Processing and Web Information Technology_, pp. 210-215, Dalian, China, July 2008.
-
-
-136.  M.E. Lee, W.H. Cho, S.W. Kim, S.H. Kim, and X. Zhao, "Intensity-Based Registration of Medical Images using Penalized Maximum Likelihood," _Proc. 1st IEEE International Workshop on Semantic Computing and Systems_, pp. 141-146, Huangshan, China, July 2008.
-
-
-137.  I.S. Na, S.C. Park, J.W. Kim, and S.H. Kim, "A Multiple Expert Algorithm for the Binarization of Korean Identity Card Images," _Proc. 8th IEEE International Conference on Computer and Information Technology_, pp. 307-311, Sydney, Australia, July 2008.
-
-
-138.  In Seop Na, Tae Ho Han, Soo Hyung Kim, Byeoung Hun Shin, and Eui-Chul Kim, "Investigation of Distortion Revision and Binarization of Each Lanes on DNA Fingerprint," _Proc. 8th IEEE International Conference on Computer and Information Technology_, pp. 406-410, Sydney, Australia, July 2008.
-
-
-139.  M.E. Lee, and S.H. Kim, W.H. Cho, X. Zhao, "Segmentation of Medical Image based on Mean Shift and Deterministic Annealing EM algorithm," _Proc. 6th IEEE/ACS International Conference on Computer Systems and Applications_, pp. 937-938, Doha, Qatar, March 2008.
-
-
-140.  X. Zhao, M.E. Lee, and S.H. Kim, "Improved Image Segmentation Method based on Optimized Threshold using Genetic Algorithm," _Proc. 6th IEEE/ACS International Conference on Computer Systems and Applications_, pp. 921-922, Doha, Qatar, March 2008.
-
-
-141.  W.H. Cho, S.W. Kim, M.E. Lee, S.H. Kim, S.Y. Park, C.B. Jeong, "Image Registration Using Geometric Deformable Model and Penalized Maximum Likelihood," _Proc. 10th IASTED International Conference on Computer Graphics and Imaging_, pp. 76-82, Innsbruck, Austria, Feb. 2008.
-
-
-142.  J.S. Lim, S.H. Kim, H.R. Park, J.W. Kim, and E.C. Kim, "Moving Object Tracking from Low-Resolution Images using Lighting Compensation," _Proc. 2nd Int. Conf. Ubiquitous Information Technologies & Applications_, pp. 561-565, Bali, Indonesia, Dec. 2007.
-
-
-143.  M.E. Lee, S.Y. Park, W.H. Cho, and S.H. Kim, "Segmentation of Medical Image Using a Statistical Technique and its 3D Visualization," _Proc. International Symposium on Information Technology Convergence_, pp. 264-268, Jeonju, Korea, Nov. 2007. (Excellent Paper Award)
-
-
-144.  Soo-Hyung Kim, Hwa-Jeong Son, Sung-Ryul Oh, Chil-Woo Lee, and Il-Seok Oh, "Staff-Line Detection and Removal Algorithm for a Camera-based Recognition of Music Score Images," _Proc. 2nd Korea-Japan Joint Workshop on Pattern Recognition_, pp. 131-138, Matsushima, Japan, Oct. 2007.
-
-
-145.  S.W. Kim, W.H. Cho, M.E. Lee, S.H Kim, and S.Y. Park, "Traffic Sign Recognition Using Color Histogram and Mutual Information," _Proc. 2nd Korea-Japan Joint Workshop on Pattern Recognition_, pp. 97-101, Matsushima, Japan, Oct. 2007.
-
-
-146.  M.E. Lee, S.H. Kim and H.J. Son, "Automatic Segmentation Methods for Various CT Images Using Morphology Operation and Statistical Technique," _Proc. 3rd IEEE Int. Conf. Intelligent Computer Communication and Processing_, pp. 105-110, Romania, September 2007.
-
-
-147.  C.B. Jeong and S.H. Kim, "Word Image Decomposition from Mixed Text/Graphics Images Using Statistical Methods," _Proc. 4th Int. Conf. Fuzzy Systems and Knowledge Discovery_, pp. 624-628, China, August 2007.
-
-
-148.  M.E. Lee, S.Y. Park, W.H. Cho and S.H. Kim, "Medical Image Segmentation Using a Geometric Active Contour Model Based on Level Set Method," _Proc. IEEE Pacific Rim Conference on Communications, Computers and Signal Processing_ , pp. 577-580, Victoria, Canada, August 2007.
-
-
-149.  Ji-Soo Kim, S.H. Kim, H.J. Son, S.R. Oh, W.P. Kim, Y.C. Kim, "Image Spam-Mail Filtering Using a Keyword Spotting," _Proc. 6th Asia Pacific International Symposium on Information Technology_, pp. 23-26, Kuala Lumpur, Malaysia, Jan. 2007.
-
-
-150.  H.J. Son, Soo H. Kim, D.W. Kang, S.C. Park, and J.S. Kim, "Text Spotting in Document Images Using a Hausdorff Distance," _Proc. 5th International Conference on Asian Language Processing and Information Technology_, pp. 123-126, Tashkent, Uzbekistan, September 2006.
-
-
-151.  J.S. Kim, S.C. Park, and Soo H. Kim, "Text locating from Natural Scene Images Using Image Intensities," _Proc. 8th International Conference on Document Analysis and Recognition_, pp. 655-659, Seoul, Korea, August 2005.
-
-
-152.  Kugsang Jeong, D. Choi, S.H. Kim and G. Lee, "An SNMP agent for context delivery in ubiquitous computing environments," _Proc. International Conference on Computational Science and Its Applications_(ICCSA 2005), p. 203, May 2005.
-
-
-153.  S.C. Park, H.J. Son, C.B. Jeong, and Soo H. Kim, "Full-Text Document Image Retrieval by Spotting the Image for User Keyword," _Proc. 11th Korea-Japan Joint Workshop on Frontiers of Computer Vision_, pp. 37-41, Gwangju, Korea, Jan. 2005.
-
-
-154.  H.J. Son, Soo H. Kim, G.S. Lee, and D. Choi, "Image-to-Image Matching Techniques for Text Recognition in Postal Automation," _Proc. 4th Asia Pacific International Symposium on Information Technology_, pp. 370-373, Gold Coast, Australia, Jan. 2005.
-
-
-155.  Soo H. Kim, C.B. Jeong, and H.K. Kwag, "Word-Level Segmentation of Document Images," _Proc. 2nd KAIST-Tsinghua Joint Workshop on Pattern Recognition_, pp. 103-124, Daejeon, Korea, Oct. 2003.
-
-
-156.  Ching Y. Suen, Shunji Mori, Soo H. Kim and Cheung H. Leung, "Analysis and Recognition of Asian Scripts - the State of the Art," _Proc. International Conference on Document Analysis and Recognition_, pp. 866-878, Edinburgh, Scotland, Aug. 2003.
-
-
-157.  Soo H. Kim, C.B. Jeong, H.K. Kwag, and Ching Y. Suen, "Word Segmentation of Printed Text Lines Based on Gap Clustering and Special Symbol Detection," _Proc. International Conference on Pattern Recognition_, Vol.2, pp. 320-323, Quebec City, Canada, Aug. 2002.
-
-
-158.  S.H. Kim, S.S. Kim, H.K. Kwag, G.S. Lee, "Optical Font Recognition for Printed Korean Characters Using Serif Pattern of Strokes," _Proc. International Technical Conference On Circuits/Systems, Computers and Communications_, pp. 916-919, Phuket, Thailand, July 2002.
-
-
-159.  H.S. Yoon, N.R. Son, G.S. Lee, S.H. Kim, "An Adaptive Block Matching Algorithm based on Temporal Correlations," _Proc. International Technical Conference On Circuits/Systems, Computers and Communications_, pp. 188-191, Phuket, Thailand, July 2002.
-
-
-160.  Soo H. Kim, S. Jeong, G.S. Lee, and Ching Y. Suen, "Word Segmentation in Handwritten Korean Text Lines Based on Gap Clustering Techniques," _Proc. 6th International Conference on Document Analysis and Recognition_, pp. 189-193, Seattle, USA, Sep. 2001.
-
-
-161.  M.S. Kim, J.S. Baek, Soo H. Kim and G.S. Lee, "Two-Dimensional Wavelet Packet Based Feature Selection for Image Recognition," _Proc. SPIE_, Vol. 4307, pp. 307-314, San Jose, California, USA, Jan. 2001.
-
-
-162.  Soo H. Kim, S.H. Jeong and H.K. Kwag, "Line Removal and Character Restoration Using BAG Representation of Form Images," _Proc. 7th International Workshop on Frontiers in Handwriting Recognition_, pp. 43-52, Amsterdam, Netherlands, Sep. 2000.
-
-
-163.  W.H. Cho, Soo H. Kim, S.Y. Park and J.H. Park, "Mean Field Annealing EM for Image Segmentation," _Proc. 2000 IEEE International Conference on Image Processing_, Vol. 3, pp. 568-571, Vancouver, Canada, Sep. 2000.
-
-
-164.  K.W. Roh, C.W. Kim, G.S. Lee and Soo H. Kim, "Three Dimensional Shape Recovery from Blurred Images," _Proc. International Technical Conference on Circuits/Systems, Computers and Communications_, pp. 799-802, Pusan, Korea, July 2000.
-
-
-165.  Soo H. Kim, S. Jeong and C.Y. Suen, "A Lexicon Driven Approach for Off-line Recognition of Unconstrained Handwritten Korean Words," _Proc. 5th International Conference on Document Analysis and Recognition_, pp. 507-510, Bangalore, India, Sep. 1999.
-
-
-166.  H.K. Kwag, K.C. Lee, Soo H. Kim and S.W. Jeong, "Fast Skew Correction Using Block Transformation," _Proc. IAPR Workshop on Document Analysis Systems_, pp. 210-213, Nagano, Japan, Nov. 1998.
-
-
-167.  Soo H. Kim, "Handwritten Korean Address Recognition by Combining Minimum Distance Classification and Dictionary Look-up," _Proc. 6th International Workshop on Frontiers in Handwriting Recognition_, pp. 439-448, Taejon, Korea, Aug. 1998.
-
-
-168.  S.W. Jeong, Soo H. Kim and W.H. Cho, "Performance Comparison of Statistical and Neural Network Classifiers in Handwritten Digits Recognition," _Proc. 6th International Workshop on Frontiers in Handwriting Recognition_, pp. 419-428, Taejon, Korea, Aug. 1998. (Also presented in _Advances in Handwriting Recognition_, S.-W. Lee ed., World Scientific, pp. 406-415, 1999).
-
-
-169.  Soo H. Kim, "Performance Improvement Strategies on Template Matching for Large Set Character Recognition," _Proc. 17th International Conference on Computer Processing of Oriental Languages_, pp. 250-253, Hong Kong, April 1997.
-
-
-170.  Soo H. Kim, J. Kim, S. Kim and J.I. Doh, "A Form Processing System with Korean and Alphanumeric Character Recognition," _Proc. French-Korean Workshop Man-Machine Handwritten Communication_, pp. 151-163, Paris, France, May 1996.
-
-
-171.  Soo H. Kim and J.I. Doh, "Off-line Recognition of Korean Scripts using Distance Matching and Neural Network Classifiers," _Proc. 3rd International Conference on Document Analysis and Recognition_, pp. 34-37, Montreal, Canada, Aug. 1995.
-
-
-172.  Soo H. Kim, J.W. Suh and J.H. Kim, "Recognition of Logic Diagrams by Identifying Loops and Rectilinear Polylines," _Proc. 2nd International Conference on Document Analysis and Recognition_, pp. 349-352, Tsukuba, Japan, Oct. 1993.
-
-
-173.  Soo H. Kim and J.H. Kim, "Automatic Input of Logic Diagrams by Contour-Based Picture Processing and Loop-Symbol Recognition," _Proc. 9th International Conference on Mathematical and Computer Modeling_, Berkeley, USA, July 1993.
+<li> In Seop Na, Wan Hyun Cho, Soo Hyung Kim, Soon-Ja Kang, T. Quy Nguyen, Jun Yong Choi,
+"Unsupervised Color Images Segmentation using Spatial Hidden MRF GDPM Model,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2013</font> (CD-Pub),
+Kota Kinabaru, Malaysia, Jan. 2013. (NRF2) (<font color="0000ff">Best Paper Award</font>)
+</li>
+
+<li> Yen Do, Soo-Hyung Kim, In-Seop Na, Dae-Wook Kang, Jin-Hyung Kim,
+"Image Retrieval Using Wavelet Transform and Shape Decomposition,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2013</font> (CD-Pub),
+Kota Kinabaru, Malaysia, Jan. 2013. (NRF2)
+</li>
+
+<li> Wan Hyun Cho, In Seop Na, Soo Hyung Kim, Jun Yong Choi and Jong Hyun Park, Dung Phan,
+"Automatic Clustering for Digital Photograph Collections Using Time and Content Information,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2013</font> (CD-Pub),
+Kota Kinabaru, Malaysia, Jan. 2013. (NRF2)
+</li>
+
+
+
+<li> Ha Le, Soo-Hyung Kim and In-Seop Na,
+"Object Segmentation Based on Adaptive Contour Initialization for Level Set Method,"
+<i>Proc. IEEE Int. Symp. Signal Processing and Information Technology</i> 2012 (CD-Pub),
+Hochiminh City, Vietnam, Dec. 2012. (ITRC)
+</li>
+
+<li> Yen Do, Soo Hyung Kim, In Seop Na,
+"Image Retrieval System Using The Decomposition of Shape Information,"
+<i>Proc. IEEE Int. Symp. Signal Processing and Information Technology</i> 2012 (CD-Pub),
+Hochiminh City, Vietnam, Dec. 2012. (ITRC)
+</li>
+
+
+<li> Hoang-Nam Bui, Soo-Hyung Kim, In-Seop Na,
+"Illumination Compensation for Face Tracking on Smart Phones,"
+<i>Proc. IEEE Int. Symp. Signal Processing and Information Technology</i> 2012 (CD-Pub),
+Hochiminh City, Vietnam, Dec. 2012. (ITRC/Samsung)
+</li>
+
+
+<li> Nguyen Tran Lan Anh, Vo Quang Nhat, Kodirov Elyor, Soo-Hyung Kim, Guee-Sang Lee,
+"Fast Automatic Saliency Map Driven Geometric Active Contour Model for Color Object Segmentation,"
+<i>Proc. International Conference on Pattern Recognition</i> 2012,
+pp. 2557-2560, Tsukuba, Japan, Nov. 2012.
+</li>
+
+
+<li> K.H. Oh, I.S. Na, S.H. Kim, A.R. Oh,
+"Object Segmentation Based on Automatic Rectangle Estimation for GrabCut,"
+<i>Proc. Int. Conf. Smart Media and Applications</i> 2012 (CD-Pub),
+Kunming, China, Aug. 2012. (NRF/NRF2)
+</li>
+
+<li>Yen Do, S.H. Kim, S.C. Park, and I.S. Na,
+"An Affine Invariant Feature Descriptor Based on Voronoi Diagram for Image Matching,"
+<i>Proc. Int. Conf. Smart Media and Applications</i> 2012 (CD-Pub),
+Kunming, China, Aug. 2012. (ITRC/NRF2)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
+
+<li> Ha Le, S.H. Kim, I.S. Na,
+"Unconstrained Object Segmentation Based on Selective Attention and Watershed Algorithm,"
+<i>Proc. Int. Conf. Smart Media and Applications</i> 2012 (CD-Pub),
+Kunming, China,, Aug. 2012. (ITRC/NRF)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
+
+<li> Do Yen, Soo Hyung Kim, Sang Cheol Park, Ha Le, Yan Juan Chen, Sun Hwa Jeong, In Seop Na,
+"Generation of Training Database Using a Noise Model for OCR Systems,"
+<font color="ff00ff"><i>Proc. Int. Conf. Ubiquitous Information Management and Communication</i> 2012</font> (CD-Pub),
+Kuala Lumpur, Malaysia, Feb. 2012. (NRF2)
+</li>
+
+<li> K.H. Oh, S.H. Kim, S.C. Park, I.S. Na, Y.J. Chen,
+"Flower Area Segmentation by Combination of GMM Technique and RGB Clustering,"
+<i>Proc. Int. Workshop on Advanced Image Technology</i> 2012, pp. 730-732,
+Ho Chi Minh City, Vietnam, Jan. 2012. (NRF2)
+</li>
+
+<li> Do Yen, Soo Hyung Kim, Sang Cheol Park, Ha Le, Yan Juan Chen, Sun Hwa Jeong, In Seop Na,
+"A Noise Model for Generating Synthetic Character Images for Training OCR Systems,"
+<i>Proc. Int. Workshop on Advanced Image Technology</i> 2012, pp. 166-170,
+Ho Chi Minh City, Vietnam, Jan. 2012. (NRF/ITRC)
+</li>
+
+<li> Ha Le, S.H. Kim, S.C. Park, Do Yen, Y.J. Chen, S.H. Jeong, I.S. Na,
+"Automatic Generation of Database to Train New Fonts for OCR Systems,"
+<i>Proc. Int. Workshop on Advanced Image Technology</i> 2012, pp. 178-182,
+Ho Chi Minh City, Vietnam, Jan. 2012. (ITRC)
+</li>
+
+<li> S.C. Park, Soo-Hyung Kim, G.S. Lee, C.W. Lee, I.S. Na, A.V.Ha Le, and Do Yen,
+"Flower Area Segmentation by a Level Set based on GMM Initialization,"
+<i>Proc. KSII 3rd Int. Conf. Internet (ICONI)</i>, pp. 17-21, Sepang, Malaysia, Dec. 2011. (NRF/ITRC)
+</li>
+
+<li> N.T.N. Anh, H.J. Yang, Soo-Hyung Kim, Sun-Hee Kim,
+"Hidden Dynamic Learning for Long-Interval Consecutive Missing Values Reconstruction in EEG Time Series,"
+<i>Proc. IEEE Int. Conf. Granular Computing</i>, pp. 653-658, Kaosiung, Taiwan, Nov. 2011. (ITRC)
+</li>
+
+<li> Myungeun Lee, Yanjuan Chen, Soohyung Kim, Jonghyo Kim,
+"Segmentation of the Pectoral Muscle Boundary in Breast MR Images,"
+<i>Proc. 11th IEEE Int. Conf. Bioinformatics and Bioengineering</i>,
+pp. 323-326, Taichung, Taiwan, Oct. 2011.
+</li>
+
+<li> Myungeun Lee, Yanjuan Chen, Soohyung Kim, Kwanggi Kim,
+"Geometric Active Model for Lesion Segmentation on Breast Ultrasound Images,"
+<font color="ff00ff"><i>Proc. 11th IEEE Int. Conf. Computer and Information Technology</i></font>, pp. 150-157, Paphos, Cyprus, Aug. 2011.
+</li>
+
+<li> Sang Cheol Park, In Seop Na, Soo Hyung Kim, Guee, Sang Lee, Kang Han Oh, and Jeong Hwan Kim, Tae Ho Han,
+"Lanes Detection in PCR Gel Electrophoresis Images,"
+<font color="ff00ff"><i>Proc. 11th IEEE Int. Conf. Computer and Information Technology</i></font>, pp. 306-313, Paphos, Cyprus, Aug. 2011. (ITRC)
+</li>
+
+<li> JunSik Lim, SooHyung Kim, GueeSang Lee, HyungJeong Yang, SangCheol Park and InSeop Na,
+"Skeletonization of Cursive Scripts In Wine Label Images,"
+<i>Proc. 1st Yellow Sea Int. Conf. Ubiquitous Computing (YES-ICUC)</i>, CD-ROM publication, August 2011. (ITRC)
+</li>
+
+<li> Myungeun Lee, Wanhyun Cho, Sunworl Kim, Yanjuan Chen, and Soohyung Kim,
+"3D Segmentation of Medical Volume Image using Hybrid Level Set Method,"
+<i>Proc. SPIE Medical Imaging 2011</i>, pp. 7962-7965, San Diego, USA, Feb. 2011.
+</li>
+
+<li> Chi-Min Oh, Md. Zahidul Islam, Jong-Gu Kim, Soo-Hyung Kim and Chil-Woo Lee,
+"2D Object Tracking with a Particle Filter and Improved Chamfer Matching,"
+<i>Proc. 2011 Int. Conf. Embedded Systems and Intelligent Technology</i> (CD-Pub), Phuket, Thailand, Feb. 2011.
+</li>
+
+<li> Bin ZHENG, In Seop NA, Jun Sik LIM, Soo Hyung KIM, Guee Sang LEE, Hyeran Byun, Bong-Kee Sin, and Sang Cheol PARK,
+"Computer-aided Detection of Asymptomatic Interstitial Lung Diseases in CT Images,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 50-53, Fukuoka, Japan, Nov. 2010. (NRF)
+</li>
+
+<li> I.S. Na, S.H. Kim, S.C. Park, and J.S. Lim,
+"Automatic Incident Detection for Intelligent Transportation,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 54-55, Fukuoka, Japan, Nov. 2010. (ITRC)
+</li>
+
+<li> J.S. Lim, S.H. Kim, S.C. Park, and I.S. Na,
+"Correction of Text Region Distortion for Automatic Signboard Recognition,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 56-59, Fukuoka, Japan, Nov. 2010.
+</li>
+
+<li> Yanjuan CHEN, Myungeun LEE, Soohyung KIM,
+"Wine Label Detection based on Mean Shift Algorithm,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 60-63, Fukuoka, Japan, Nov. 2010. (NRF)
+</li>
+
+<li> Myungeun LEE, Wanhyun CHO, Soohyung KIM, Yanjuan CHEN,
+"Ultrasound Image Segmentation Based on Geometric Active Contour Model,"
+<i>Proc 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 81-83, Fukuoka, Japan, Nov. 2010. (NRF)
+</li>
+
+<li> Ngoc Anh Thi Nguyen, Sun Hee Kim, Hyung Jeong Yang, Soo-Hyung Kim,
+"Hidden variables detection based on incremental approach for non- stationary EEG signals classification,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 128-133, Fukuoka, Japan, Nov. 2010.
+</li>
+
+<li> Inhye SEO, Soohyung KIM, Myungeun LEE,
+"Improvement of Chen-Vese Model Based an Adaptive Gray World Method for Automatic Flower Segmentation,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 177-179, Fukuoka, Japan, Nov. 2010. (ITRC)
+</li>
+
+<li> Sun-Hee Kim, Hyung-Jeong Yang, Soo-Hyung Kim,
+"Electroencephalogram Analysis for Dynamics Forecasting of Epilepsy Seizure,"
+<i>Proc. 2nd China-Japan-Korea Joint Workshop on Pattern Recognition</i>, pp. 180-184, Fukuoka, Japan, Nov. 2010.
+</li>
+
+
+<li> J.H. Park, W.H. Cho, S.Y. Park, S.W. Kim, S.H. Kim, G.D. Ahn, M.E. Lee, G.S. Lee,
+"Segmentation of 3D Object in Volume Dataset Using Active Deformable Model,"
+<i>Proc. Int. Conf. Image Processing</i>, pp. 4121-4124, Hong Kong, Sep. 2010. (ITRC)
+</li>
+
+<li> Wanhyun Cho, Jonghyun Park, Soonyoung Park, Soohyung Kim, Sunwel Kim, Myungeun Lee, Gueesang Lee,
+"Level-Set Segmentation of Brain Tumors using a New Hybrid Speed Function,"
+<i>Proc. Int. Conf. Pattern Recognition</i>, pp. 1545-1548, Istanbul, Turkey, Aug. 2010. (kosef)
+</li>
+
+<li> J.H. Park, G.S. Lee, W.H. Cho, N. Toan, S.H. Kim, S.Y. Park,
+"Moving Object Detection based on Clausius Entropy,"
+<font color="ff00ff"><i>Proc. 10th IEEE Int. Conf. Computer and Information Technology</i></font>,
+pp. 517-521, Bradford, UK, June 2010. (ITRC/kosef)
+</li>
+
+<li> H.P. Le, T.N. Dinh, S.H. Kim, G.S. Lee,
+"Text Detection in Binarized Text Images of Korean Signboard by Stroke Width Feature,"
+<i>Proc. 10th IEEE Int. Conf. Computer and Information Technology</i>,
+pp. 1588-1592, Bradford, UK, June 2010. (ITRC)
+</li>
+
+<li> Myung-Eun Lee, Soo-Hyung Kim, W.H. Cho, S.W. Kim, J.H. Park, S.Y. Park, and J.S. Lim,
+"Medical image registration using the modified conditional entropy measure
+combining the spatial and intensity information,"
+<i>Proc. SPIE Medical Imaging</i> 2010,
+San Diego, USA, February 2010. (kosef)
+</li>
+
+<li> In-Hye Seo, J.S. Kim, Soo-Hyung Kim, C.W. Lee, L.P. Huy, G.S. Lee,
+"Contents development using on-line character recognition in a tabletop display,"
+<i>Proc. Int. Conf. Impact on Ubiquitous IT Co-Design to Industry</i>,
+pp. 29-33, Australia, Jan. 2010. (<font color="0000ff">Outstanding Best Paper Award</font>) (CT)
+</li>
+
+<li> Myung-Eun Lee, Soo-Hyung Kim, and In-Hye Seo,
+"Intensity-based registration of medical images,"
+<i>Proc. Int. Conf. Test and Measurement </i>(ICTM 2009),
+pp. 239-242, Hong Kong, December 2009.
+</li>
+
+<li> Toan Nguyen Dinh, Jonghyun Park, SooHyung Kim, Hyukro Park, and GueeSang Lee,
+"Automatic Image Restoration Based on Tensor Voting,"
+<i>Proc. 16th Int. Conf. Neural Information Processing </i>(also as in LNCS 5863),
+pp. 810-818, Thailand, Dec. 2009.
+</li>
+
+<li> JunSik Lim, Soohyung Kim, JongHyun Park, GueeSang Lee, HyungJeong Yang and ChilWoo Lee,
+"Recognition of Text in Wine Label images,"
+<i>Proc. 1st CJK Joint Workshop on Pattern Recognition </i>(CJKPR 2009),
+pp. 911-915, Nanjing, China, November 2009.
+</li>
+
+<li> J.H. Park, G.S. Lee, S.H. Kim, J.S. Lim, S.Y. Park, and W.H. Cho,
+"Integrated registration based on statistical modeling for medical volume images and its visualization,"
+<i>Proc. Int. Conf. Image Processing, Computer Vision, and Pattern Recognition </i>(IPCV 2009),
+pp. 632-637, Las Vegas, USA, July 2009.
+</li>
+
+<li> T.Q. Vinh, S.M. Jang, Y.C. Kim, S.H. Kim, G.S. Lee, and S.H. Hong,
+"VLSI Design for Median-Based Edge-Directed Interlacing,"
+<i>Proc. 2009 Int. Conf. Maritime Information and Communication Sciences</i>,
+pp. 40-43, Manila, Phillipines, June 2009.
+</li>
+
+<li> Jonghyun Park, Wanhyun Cho, Soonyoung Park, Junsik Lim, Soohyung Kim, Gueesang Lee,
+"A Generic Framework of Integrating Segmentation and Registration,"
+<font color="ff00ff"><i>Proc. 9th IEEE Int. Conference on Bioinformatics and Bioengineering</i></font>,
+pp. 38-44, Taichung, Taiwan, June 2009.
+</li>
+
+<li> Myung-Eun Lee, Soo-Hyung Kim, Wan-Hyun Cho, Soon-Young Park, Jun-Sik Lim,
+"Segmentation of Brain MR Images using an Ant Colony Optimization Algorithm,"
+<font color="ff00ff"><i>Proc. 9th IEEE Int. Conference on Bioinformatics and Bioengineering</i></font>,
+pp. 366-369, Taichung, Taiwan, June 2009.
+</li>
+
+<li> A. Canedo-Rodriguez, Jung H. Kim, Soo-Hyung Kim, Y. Blanco-Fernandez,
+"English to Spanish Translation of Signboard Images from Mobile Phone Camera,"
+<i>Proc. IEEE SoutheastCon 2009</i>, Atlanta, USA, March 2009. (CD-ROM Publication)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
+
+<li> W.H. Cho, J.H. Park, S.W. Kim, M.E. Lee, S.Y. Park, J.S. Lim, G.S. Lee, H.P. Le, S.H. Kim, and C.B. Jeong,
+"Multimodality imgae registration using ordinary Procrustes analysis,"
+<i>Proc. SPIE Medical Imaging 2009</i>, Florida, USA, Feb. 2009. (CD-ROM Publication)
+</li>
+
+<li> J.H. Park, G.S. Lee, E.C. Kim, J.S. Lim, S.H. Kim, H.J. Yang, S.W. Oh,
+"Automatic Detection and Recognition of Shop Name in Outdoor Signboard Images,"
+<font color="ff00ff"><i>Proc. 8th IEEE International Symposium on Signal Processing and Information Technology</i></font>,
+pp. 111-116, Bosnia, Dec. 2008.
+</li>
+
+<li>W.H. Cho, S.W. Kim, M.E. Lee, S.H. Kim, S.Y. Park, and C.B. Jeong,
+"Multimodality Image Registration Using Ordinary Procrustes Analysis and Entropy of Bivariate Normal Kernel Density,"
+<font color="ff00ff"><i>Proc. 8th IEEE International Conf. BioInformatics and BioEngineering</i></font>,
+Athens, Greece, Oct. 2008. (CD version)
+</li>
+
+<li>X. Zhao, M.E. Lee, and S.H. Kim,
+"Improved Image Thresholding using Ant Colony Optimization Algorithm,"
+<font color="ff00ff"><i>Proc. 7th International Conference on Advanced Language Processing and Web Information Technology</i></font>,
+pp. 210-215, Dalian, China, July 2008.
+</li>
+
+<li>M.E. Lee, W.H. Cho, S.W. Kim, S.H. Kim, and X. Zhao,
+"Intensity-Based Registration of Medical Images using Penalized Maximum Likelihood,"
+<font color="ff00ff"><i>Proc. 1st IEEE International Workshop on Semantic Computing and Systems</i></font>,
+pp. 141-146, Huangshan, China, July 2008.
+</li>
+
+<li>I.S. Na, S.C. Park, J.W. Kim, and S.H. Kim,
+"A Multiple Expert Algorithm for the Binarization of Korean Identity Card Images,"
+<font color="ff00ff"><i>Proc. 8th IEEE International Conference on Computer and Information Technology</i></font>,
+pp. 307-311, Sydney, Australia, July 2008.
+</li>
+
+<li>In Seop Na,  Tae Ho Han, Soo Hyung Kim, Byeoung Hun Shin, and Eui-Chul Kim,
+"Investigation of Distortion Revision and Binarization of Each Lanes on DNA Fingerprint,"
+<font color="ff00ff"><i>Proc. 8th IEEE International Conference on Computer and Information Technology</i></font>,
+pp. 406-410, Sydney, Australia, July 2008.
+</li>
+
+<li>M.E. Lee, and S.H. Kim, W.H. Cho, X. Zhao,
+"Segmentation of Medical Image based on Mean Shift and Deterministic Annealing EM algorithm,"
+<font color="ff00ff"><i>Proc. 6th IEEE/ACS International Conference on Computer Systems and Applications</i></font>,
+pp. 937-938, Doha, Qatar, March 2008.
+</li>
+
+<li>X. Zhao, M.E. Lee, and S.H. Kim,
+"Improved Image Segmentation Method based on Optimized Threshold using Genetic Algorithm,"
+<font color="ff00ff"><i>Proc. 6th IEEE/ACS International Conference on Computer Systems and Applications</i></font>,
+pp. 921-922, Doha, Qatar, March 2008.
+</li>
+
+<li>W.H. Cho, S.W. Kim, M.E. Lee, S.H. Kim, S.Y. Park, C.B. Jeong,
+"Image Registration Using Geometric Deformable Model and Penalized Maximum Likelihood,"
+<i>Proc. 10th IASTED International Conference on Computer Graphics and Imaging</i>,
+pp. 76-82, Innsbruck, Austria, Feb. 2008.
+</li>
+
+<li>J.S. Lim, S.H. Kim, H.R. Park, J.W. Kim, and E.C. Kim,
+"Moving Object Tracking from Low-Resolution Images using Lighting Compensation,"
+<font color="ff00ff"><i>Proc. 2nd Int. Conf. Ubiquitous Information Technologies & Applications</i></font>,
+pp. 561-565, Bali, Indonesia, Dec. 2007.
+</li>
+
+<li>M.E. Lee, S.Y. Park, W.H. Cho, and S.H. Kim,
+"Segmentation of Medical Image Using a Statistical Technique and its 3D Visualization,"
+<font color="ff00ff"><i>Proc. International Symposium on Information Technology Convergence</i></font>,
+pp. 264-268, Jeonju, Korea, Nov. 2007. (<font color="0000ff">Excellent Paper Award</font>)
+</li>
+
+<li>Soo-Hyung Kim, Hwa-Jeong Son, Sung-Ryul Oh, Chil-Woo Lee, and Il-Seok Oh,
+"Staff-Line Detection and Removal Algorithm for a Camera-based Recognition of Music Score Images,"
+<i>Proc. 2nd Korea-Japan Joint Workshop on Pattern Recognition</i>,
+pp. 131-138, Matsushima, Japan, Oct. 2007.
+</li>
+
+<li>S.W. Kim, W.H. Cho, M.E. Lee, S.H Kim, and S.Y. Park,
+"Traffic Sign Recognition Using Color Histogram and Mutual Information,"
+<i>Proc. 2nd Korea-Japan Joint Workshop on Pattern Recognition</i>,
+pp. 97-101, Matsushima, Japan, Oct. 2007.
+</li>
+
+<li>M.E. Lee, S.H. Kim and H.J. Son,
+"Automatic Segmentation Methods for Various CT Images Using Morphology Operation and Statistical Technique,"
+<font color="ff00ff"><i>Proc. 3rd IEEE Int. Conf. Intelligent Computer Communication and Processing</i></font>,
+pp. 105-110, Romania, September 2007.
+</li>
+
+<li>C.B. Jeong and S.H. Kim,
+"Word Image Decomposition from Mixed Text/Graphics Images Using Statistical Methods,"
+<font color="ff00ff"><i>Proc. 4th Int. Conf. Fuzzy Systems and Knowledge Discovery</i></font>,
+pp. 624-628, China, August 2007.
+</li>
+
+<li>M.E. Lee, S.Y. Park, W.H. Cho and S.H. Kim,
+"Medical Image Segmentation Using a Geometric Active Contour Model Based on Level Set Method,"
+<font color="ff00ff"><i>Proc. IEEE Pacific Rim Conference on Communications, Computers and
+Signal Processing </i></font>, pp. 577-580, Victoria, Canada, August 2007.
+</li>
+
+<li>Ji-Soo Kim, S.H. Kim, H.J. Son, S.R. Oh, W.P. Kim, Y.C. Kim,
+"Image Spam-Mail Filtering Using a Keyword Spotting,"
+<i>Proc. 6th Asia Pacific International Symposium on Information Technology</i>,
+pp. 23-26, Kuala Lumpur, Malaysia, Jan. 2007.
+</li>
+
+<li>H.J. Son, Soo H. Kim, D.W. Kang, S.C. Park, and J.S. Kim,
+"Text Spotting in Document Images Using a Hausdorff Distance,"
+<i>Proc. 5th International Conference on Asian Language Processing and Information Technology</i>,
+pp. 123-126, Tashkent, Uzbekistan, September 2006.
+
+</li>
+
+<li>J.S. Kim, S.C. Park, and Soo H. Kim,
+"Text locating from Natural Scene Images Using Image Intensities,"
+<i>Proc. 8th International Conference on Document Analysis and Recognition</i>,
+pp. 655-659, Seoul, Korea, August 2005.
+</li>
+
+<li>Kugsang Jeong, D. Choi, S.H. Kim and G. Lee,
+"An SNMP agent for context delivery in ubiquitous computing environments,"
+<i>Proc. International Conference on Computational Science and Its Applications</i>(ICCSA 2005),
+p. 203, May 2005.
+</li>
+
+<li>S.C. Park, H.J. Son, C.B. Jeong, and Soo H. Kim,
+"Full-Text Document Image Retrieval by Spotting the Image for User Keyword,"
+<i>Proc. 11th Korea-Japan Joint Workshop on Frontiers of Computer Vision</i>,
+pp. 37-41, Gwangju, Korea, Jan. 2005.
+</li>
+
+<li>H.J. Son, Soo H. Kim, G.S. Lee, and D. Choi,
+"Image-to-Image Matching Techniques for Text Recognition in Postal Automation,"
+<i>Proc. 4th Asia Pacific International Symposium on Information Technology</i>,
+pp. 370-373, Gold Coast, Australia, Jan. 2005.
+</li>
+
+<li>Soo H. Kim, C.B. Jeong, and H.K. Kwag,
+"Word-Level Segmentation of Document Images,"
+<i>Proc. 2nd KAIST-Tsinghua Joint Workshop on Pattern Recognition</i>,
+pp. 103-124, Daejeon, Korea, Oct. 2003.
+</li>
+
+<li>Ching Y. Suen, Shunji Mori, Soo H. Kim and Cheung H. Leung,
+"Analysis and Recognition of Asian Scripts - the State of the Art,"
+<i>Proc. International Conference on Document Analysis and Recognition</i>,
+pp. 866-878, Edinburgh, Scotland, Aug. 2003.
+
+</li>
+
+<li>Soo H. Kim, C.B. Jeong, H.K. Kwag, and Ching Y. Suen,
+"Word Segmentation of Printed Text Lines Based on Gap Clustering and Special Symbol Detection,"
+<i>Proc. International Conference on Pattern Recognition</i>, Vol.2, pp. 320-323,
+Quebec City, Canada, Aug. 2002.
+
+</li>
+
+<li>S.H. Kim, S.S. Kim, H.K. Kwag, G.S. Lee,
+"Optical Font Recognition for Printed Korean Characters Using Serif Pattern of Strokes,"
+<i>Proc. International Technical Conference On Circuits/Systems, Computers and Communications</i>,
+pp. 916-919, Phuket, Thailand, July 2002.
+</li>
+
+<li>H.S. Yoon, N.R. Son, G.S. Lee, S.H. Kim,
+"An Adaptive Block Matching Algorithm based on Temporal Correlations,"
+<i>Proc. International Technical Conference On Circuits/Systems, Computers and Communications</i>,
+pp. 188-191, Phuket, Thailand, July 2002.
+</li>
+
+<li>Soo H. Kim, S. Jeong, G.S. Lee, and Ching Y. Suen,
+"Word Segmentation in Handwritten Korean Text Lines Based on Gap Clustering Techniques,"
+<i>Proc. 6th International Conference on Document Analysis and Recognition</i>,
+pp. 189-193, Seattle, USA, Sep. 2001.
+</li>
+
+<li> M.S. Kim, J.S. Baek, Soo H. Kim and G.S. Lee,
+"Two-Dimensional Wavelet Packet Based Feature Selection for Image Recognition,"
+<i>Proc. SPIE</i>,
+Vol. 4307, pp. 307-314, San Jose, California, USA, Jan. 2001.
+</li>
+
+<li> Soo H. Kim, S.H. Jeong and H.K. Kwag,
+"Line Removal and Character Restoration Using BAG Representation of Form Images,"
+<i>Proc. 7th International Workshop on Frontiers in Handwriting Recognition</i>,
+pp. 43-52, Amsterdam, Netherlands, Sep. 2000.
+</li>
+
+<li> W.H. Cho, Soo H. Kim, S.Y. Park and J.H. Park,
+"Mean Field Annealing EM for Image Segmentation,"
+<i>Proc. 2000 IEEE International Conference on Image Processing</i>,
+Vol. 3, pp. 568-571, Vancouver, Canada, Sep. 2000.
+</li>
+
+<li> K.W. Roh, C.W. Kim, G.S. Lee and Soo H. Kim,
+"Three Dimensional Shape Recovery from Blurred Images,"
+<i>Proc. International Technical Conference on Circuits/Systems, Computers and Communications</i>,
+pp. 799-802, Pusan, Korea, July 2000.
+</li>
+
+<li> Soo H. Kim, S. Jeong and C.Y. Suen,
+"A Lexicon  Driven Approach for Off-line Recognition of Unconstrained Handwritten Korean Words,"
+<i>Proc. 5th International Conference on Document Analysis and Recognition</i>,
+pp. 507-510, Bangalore, India, Sep. 1999.
+</li>
+
+<li>H.K. Kwag, K.C. Lee, Soo H. Kim and S.W. Jeong,
+"Fast Skew Correction Using Block Transformation,"
+<i> Proc. IAPR Workshop on Document Analysis Systems</i>,
+pp. 210-213, Nagano, Japan, Nov. 1998.
+</li>
+
+<li>Soo H. Kim,
+"Handwritten Korean Address Recognition by Combining Minimum Distance Classification and Dictionary Look-up,"
+<i> Proc. 6th International Workshop on Frontiers in Handwriting Recognition</i>,
+pp. 439-448, Taejon, Korea, Aug. 1998.
+</li>
+
+<li>S.W. Jeong, Soo H. Kim and W.H. Cho,
+"Performance Comparison of Statistical and Neural Network Classifiers in Handwritten Digits Recognition,"
+<i>Proc. 6th International Workshop on Frontiers in Handwriting Recognition</i>,
+pp. 419-428, Taejon, Korea, Aug. 1998.
+(Also presented in <i>Advances in Handwriting Recognition</i>,
+S.-W. Lee ed., World Scientific, pp. 406-415, 1999).
+</li>
+
+<li>Soo H. Kim,
+"Performance Improvement Strategies on Template Matching for Large Set Character Recognition,"
+<i>Proc. 17th International Conference on Computer Processing of Oriental Languages</i>,
+pp. 250-253, Hong Kong, April 1997.
+</li>
+
+<li>Soo H. Kim, J. Kim, S. Kim and J.I. Doh,
+"A Form Processing System with Korean and Alphanumeric Character Recognition,"
+<i>Proc. French-Korean Workshop Man-Machine Handwritten Communication</i>,
+pp. 151-163, Paris, France, May 1996.
+</li>
+
+<li>Soo H. Kim and J.I. Doh,
+"Off-line Recognition of Korean Scripts using Distance Matching and Neural Network Classifiers,"
+<i>Proc. 3rd International Conference on Document Analysis and Recognition</i>,
+pp. 34-37, Montreal, Canada, Aug. 1995.
+</li>
+
+<li>Soo H. Kim, J.W. Suh and J.H. Kim,
+"Recognition of Logic Diagrams by Identifying Loops and Rectilinear Polylines,"
+<i>Proc. 2nd International Conference on Document Analysis and Recognition</i>,
+pp. 349-352, Tsukuba, Japan, Oct. 1993.
+</li>
+
+
+<li>Soo H. Kim and J.H. Kim,
+"Automatic Input of Logic Diagrams by Contour-Based Picture Processing and Loop-Symbol Recognition,"
+<i>Proc. 9th International Conference on Mathematical and Computer Modeling</i>,
+Berkeley, USA, July 1993.
+</li>
+
+</ol>
