@@ -22,7 +22,13 @@ Here are some topics that we are working on:
 * Rapid Response System (RRS).
 
 Representative publications:
-1. Do, Nhu-Tai, Sung-Taek Jung, Hyung-Jeong Yang, and **Soo-Hyung Kim**. "Multi-Level Seg-Unet Model with Global and Patch-Based X-ray Images for Knee Bone Tumor Detection." _Diagnostics_ 11, no. 4 (2021): 691.
+
+1. Vo, Thanh-Hung, Guee-Sang Lee, Hyung-Jeong Yang, In-Jae Oh, **Soo-Hyung Kim**, and Sae-Ryung Kang. "Survival Prediction of Lung Cancer Using Small-Size Clinical Data with a Multiple Task Variational Autoencoder." _Electronics_ 10, no. 12 (2021): 1396.
+
+2. Do, Nhu-Tai, Sung-Taek Jung, Hyung-Jeong Yang, and **Soo-Hyung Kim**. "Multi-Level Seg-Unet Model with Global and Patch-Based X-ray Images for Knee Bone Tumor Detection." _Diagnostics_ 11, no. 4 (2021): 691.
+
+3. Pham, Cuong Van, Su-Jin Lee, So-Yeon Kim, Sookyoung Lee, **Soo-Hyung Kim**, and Hyung-Seok Kim. "Age estimation based on 3D post-mortem computed tomography images of mandible and femur using convolutional neural networks." _PLoS ONE_ 16, no. 5 (2021): e0251388.
+
 
 
 ## Multimodal Emotion
