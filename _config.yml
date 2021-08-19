@@ -145,6 +145,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-sitemap
   - jemoji
+  - jekyll-redirect-from
 
 # Extras
 github: [metadata]

@@ -18,7 +18,7 @@ display_categories: [work]
     <div class="card hoverable bg-custom-1">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid" alt="{{ member.profile.name }}" />
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid w-100" alt="{{ member.profile.name }}" />
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -43,6 +43,9 @@ display_categories: [work]
                     {% endif %}
                     {% if member.profile.facebook %}
                         <a href="https://facebook.com/{{ member.profile.facebook }}" class="card-link" target="_blank"><i class="fab fa-facebook"></i></a>
+                    {% endif %}
+                    {% if member.profile.linkedin %}
+                        <a href="https://linkedin.com/in/{{ member.profile.linkedin }}" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
                     {% endif %}
                     {% if member.profile.github %}
                         <a href="https://github.com/{{ member.profile.github }}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>

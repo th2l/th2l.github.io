@@ -7,6 +7,7 @@ importance: 1
 category: work
 group: Professor
 group_rank: 0
+redirect_from: /shkim
 profile:
   name: Prof. Soo-Hyung Kim
   position: Head of the Pattern Recognition Lab
