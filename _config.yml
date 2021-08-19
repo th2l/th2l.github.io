@@ -8,7 +8,7 @@ middle_name:
 last_name: Kim
 email: shkim (at) jnu.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Based on [*folio](https://github.com/bogoli/-folio) design.
+  Pattern Recognition Lab - Department of Artificial Intelligence Convergence - Chonnam Nat'l Univ., South Korea
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
