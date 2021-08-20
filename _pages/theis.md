@@ -7,7 +7,13 @@ title: Thesis
 nav: false
 ---
 
-    Theses (학위논문)
+{:.no_toc}
+
+1. TOC
+{:toc}
+
+
+### Theses (학위논문)
 
 <ul class=space_list_kr>
 
@@ -27,10 +33,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 
 
-    Doctoral Dissertation guidance 박사학위 논문지도
-
-
-
+### Doctoral Dissertation guidance 박사학위 논문지도
 
 <ol class=space_list_kr>
 
@@ -74,9 +77,7 @@ Korea Advanced Institute of Science and Technology, Nov. 1992. (Text in English)
 
 
 
-
-
-    Master Thesis guidance 석사학위 논문지도
+### Master Thesis guidance 석사학위 논문지도
 
 <ol class=space_list_kr>
 

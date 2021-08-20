@@ -6,9 +6,12 @@ title: Patents
 # years: [1956, 1950, 1935, 1905]
 nav: false
 ---
+{:.no_toc}
 
+- TOC
+{:toc}
 
-    International Patents
+### International Patents
 
 <ol class=space_list_kr>
 
@@ -61,7 +64,7 @@ Patent Application No.: 7-185824('95. 7. 21),
 </ol>
 
 
-    국내특허 (Domestic Patents)
+### 국내특허 (Domestic Patents)
 
 
 <ol class=space_list_kr>
@@ -357,7 +360,7 @@ Block Clustering을 이용한 관심영역기반 자동객체분할방법 및 �
 </ol>
 
 
-    프로그램등록 (Program Registration)
+### 프로그램등록 (Program Registration)
 
 
 <ol class=space_list_kr>

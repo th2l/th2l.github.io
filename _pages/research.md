@@ -7,21 +7,21 @@ nav: true
 display_categories: [work]
 horizontal: false
 ---
+{:.no_toc}
 
+1. TOC
+{:toc}
 
 ## Medical Image Analysis
-Here are some topics that we are working on:
+
+> Here are some topics that we are working on:
 * Clinics/PET/CT – Survival.
-
 * Pathomics – Survival Analysis.
-
 * Treatment Recommendation.
-
 * Difference analysis from PET.
-
 * Rapid Response System (RRS).
 
-Representative publications:
+    Representative publications:
 
 1. Vo, Thanh-Hung, Guee-Sang Lee, Hyung-Jeong Yang, In-Jae Oh, **Soo-Hyung Kim**, and Sae-Ryung Kang. "Survival Prediction of Lung Cancer Using Small-Size Clinical Data with a Multiple Task Variational Autoencoder." _Electronics_ 10, no. 12 (2021): 1396.
 
@@ -33,7 +33,13 @@ Representative publications:
 
 ## Multimodal Emotion
 
-Currently, we focus on analyzing mental health states (pain, stress, ...), cognitive load from multimodal data, including audio, visual, biological signals. Here are some achievements in the past few years:
+> Here are some topics that we are working on:
+* Cognitive load, concentration recognition with image and/or biological signals (EEG, ECG, EMG, ...).
+* Graph-based contextual emotion recognition: video-based (spatial context, _temporal context_).
+* Wearable-device based complex emotion recognition: biological signals (EEG, ECG, EMG, ...).
+
+    Achievements in the past few years:
+
 * :1st_place_medal: Winner of the **Evoked Expressions from Videos (EEV) Challenge** - [Affective Understanding in Video Workshop @ CVPR 2021](https://sites.google.com/view/auvi-cvpr2021/challenge?authuser=0).
 
 * :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions Sub-Challenge** - _IEEE 2020 Face & Gesture Conference_.
