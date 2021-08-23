@@ -4,6 +4,7 @@ permalink: /members/
 title: Members
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
+sortedIndex: 1
 display_categories: [work]
 ---
 

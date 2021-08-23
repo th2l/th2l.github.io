@@ -6,6 +6,7 @@ permalink: /research/
 nav: true
 display_categories: [work]
 horizontal: false
+sortedIndex: 3
 ---
 {:.no_toc}
 

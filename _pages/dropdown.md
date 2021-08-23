@@ -3,6 +3,7 @@ layout: page
 title: Publications
 nav: true
 dropdown: true
+sortedIndex: 2
 children: 
     - title: Int’l. Journal
       permalink: /int_jn/

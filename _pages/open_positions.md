@@ -2,6 +2,7 @@
 layout: page
 permalink: /open_positions/
 title: Open Positions
+sortedIndex: 1000
 nav: true
 ---
 
