@@ -29,7 +29,7 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 #### Achievements
 * :1st_place_medal: Winner of the **Evoked Expressions from Videos (EEV) Challenge** - [Affective Understanding in Video Workshop @ CVPR 2021](https://sites.google.com/view/auvi-cvpr2021/challenge?authuser=0).
 
-* :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions Sub-Challenge** - _IEEE 2020 Face & Gesture Conference_.
+* :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions** Sub-Challenge - _IEEE 2020 Face & Gesture Conference_.
 
 * :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (EmotiW) - _21st ACM International Conference on Multimodal Interaction 2019_.
 
@@ -48,5 +48,5 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzE3ODUyNl19
+eyJoaXN0b3J5IjpbMTE3Nzk3NzExOF19
 -->
