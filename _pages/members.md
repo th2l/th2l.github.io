@@ -16,7 +16,7 @@ display_categories: [work]
     {% assign members = site.members | sort: "lastname" | where: "group", group %}
     {% for member in members %}
 <p>
-    <div class="card hoverable bg-custom-1">
+    <div class="card hoverable bg-custom-1 d-block">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
                 <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid w-100" alt="{{ member.profile.name }}" />
