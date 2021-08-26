@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image:
+  image: prl_photo_2018.jpg
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

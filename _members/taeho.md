@@ -7,10 +7,10 @@ importance: 4
 category: work
 group: Master Students
 group_rank: 4
-teaser: My research interest ... I am currently working on ...
+teaser: My research interests include physical security and pattern recognition.
 profile:
   name: Taeho Shin
-  email:
+  email: edensth(at)naver.com
   twitter:
   facebook:
   orcid:
@@ -18,10 +18,10 @@ profile:
   linkedin:
   website:
   align: right
-  image: avatar_df.png
+  image: taeho.jpg
 ---
 
-Something about me
+I received the B.S. degree from the Department of Physics, Chonnam National University (JNU), South Korea in 2021 and joined the PR lab in the same year. I am currently working toward the M.S. degree from the Graduate school of Information Security, Chonnam National University, South Korea. My research interests include physical security and pattern recognition.
 
 
 

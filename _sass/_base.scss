@@ -35,7 +35,34 @@ ul.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
     color: var(--global-text-color);
 }
 
+// Carousel item
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+    right: 10px;
+    left: auto;
+}
 
+.carousel .carousel-inner {
+    height: 300px;
+    margin-bottom: 30px;
+    background: #faf9f9;
+    //border:1px solid red;
+}
+
+//.carousel-control.right,
+//.carousel-control.left {
+    //background-image: none;
+//}
+
+//.carousel .img
+//{
+   //width: 50%;
+   //margin: auto;
+//}
+
+
+///
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
