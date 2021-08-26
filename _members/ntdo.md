@@ -3,10 +3,10 @@ layout: meminfo
 title: Nhu-Tai Do
 lastname: Do
 description:
-importance: 3
+importance: 2
 category: work
-group: PhD Students
-group_rank: 3
+group: Researchers
+group_rank: 2
 teaser: My research interests computer vision, pattern recognition, and medical image analysis. I am currently working on knee bone tumor prognosis and context-aware emotion recognition.
 profile:
   name: Nhu-Tai Do
@@ -16,14 +16,12 @@ profile:
   orcid: 0000-0002-7034-0364
   github: dntai
   linkedin: nhu-tai-do-a60016128
-  website: dntai.vneasy.net
+  website: https://dntai.vneasy.net
   align: right
   image: ntdo.png
 ---
 
-I am currently working toward a Ph.D. degree in the Pattern Recognition Lab, Department of Artificial Intelligence Convergence, Chonnam National University, Korea. I received the B.Eng. and M.Eng. degrees in Computer Science from Ho Chi Minh City University of Technology, Vietnam National University, Vietnam in 2010 and 2013. Since 2011, I have worked at Ho Chi Minh City University of Technology as a Lecturer. My research interests include natural language processing, pattern recognition, and medical image processing.
-
-I received the B.S. in Information System major from HCM City University of Foreign Language – Information Technology, Vietnam in 2005 and M.S. in Information System Management from International University, Vietnam National University at HCMC, Viet Nam in 2017. From 2005 to 2017, I was a lecturer in Faculty of Information Technology, HCM University of Foreign Languages and Information Technology, Vietnam. Since 2017, he is Ph.D candidate in the Department of Computer Science, Chonnam National University, Korea. His research interests are pattern recognition, deep learning, computer vision, and parallel programming.
+From 2017 to now, I am working in the Pattern Recognition Lab, Department of Artificial Intelligence Convergence, Chonnam National University, Korea. I received the B.S. degree in information system major from HCMC University of Foreign Language – Information Technology, Vietnam, in 2005, the M.S. degree in Information System Management from International University, Vietnam National University at HCMC, Viet Nam, in 2017, and the Ph.D. degree in Artificial Intelligence Convergence, Chonnam National University, South Korea, in 2021. From 2005 to 2017, I was a lecturer in the Faculty of Information Technology, HCM University of Foreign Languages and Information Technology, Vietnam. My research interests are pattern recognition, deep learning, computer vision, and parallel programming.
 
 
 #### Achievements

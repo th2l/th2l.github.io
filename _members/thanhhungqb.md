@@ -2,7 +2,7 @@
 layout: meminfo
 title: Thanh-Hung Vo
 lastname: Vo
-description:
+description: PhD student
 importance: 3
 category: work
 group: PhD Students

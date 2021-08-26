@@ -16,7 +16,7 @@ profile:
   linkedin: vthuynh-ai
   orcid: 0000-0002-6240-2959
   github: th2l
-  website: vthuynh.net
+  website: https://vthuynh.net
   align: right
   image: vthuynh.jpeg
   address:
