@@ -45,18 +45,20 @@ sortedIndex: 3
 
 * :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions Sub-Challenge** - _IEEE 2020 Face & Gesture Conference_.
 
-<img class="img-fluid rounded" src="/assets/img/emopain2020.jpg" alt="EMOPAIN 2020 - FG Certificate"/>
 
-*  :1st_place_medal: Winner of the **Group-level Cohesion sub-challenge** - Seventh Emotion Recognition in the Wild Challenge (EmotiW) - _21st ACM International Conference on Multimodal Interaction 2019_.
+<img class="rounded mx-auto d-block" src="/assets/img/emopain2020.jpg" alt="EMOPAIN 2020 - FG Certificate" width="80%" height="auto"/>
 
-<img class="img-fluid rounded" src="/assets/img/emotiw19_gc.png" alt="GC model"/>
 
-* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (EmotiW) - _21st ACM International Conference on Multimodal Interaction 2019_.
+*  :1st_place_medal: Winner of the **Group-level Cohesion sub-challenge** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
+
+<img class="rounded mx-auto d-block" src="/assets/img/emotiw19_gc.png" alt="GC model" width="80%" height="auto"/>
+
+* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
 
 * Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks - _IEEE Transactions on Affective Computing (TAC)_ - IF **10.506** (2020), JCR **10%** (2020)**.
 
 <figure class="figure">
- <img class="img-fluid rounded" src="/assets/img/mlcnn.png" alt="MLCNN"/>
+ <img class="rounded mx-auto d-block" src="/assets/img/mlcnn.png" alt="MLCNN" width="80%" height="auto"/>
  <figcaption class="figure-caption">Left: 3D-CNN with MLCNN. Right: Ensemble strategy. More detail in <a href="https://ieeexplore.ieee.org/abstract/document/8863974">here.</a></figcaption>
 
 </figure>
@@ -71,7 +73,9 @@ sortedIndex: 3
 	3. Tran, Tuan Anh, Hong Tai Tran, In Seop Na, Guee Sang Lee, Hyung Jeong Yang, and **Soo Hyung Kim**. "A mixture model using Random Rotation Bounding Box to detect table region in document image." _Journal of Visual Communication and Image Representation_ 39 (2016): 196-208.
 
 * :1st_place_medal: Winner of **Competition on Recognition of Documents with Complex Layouts** - _14th IAPR International Conference on Document Analysis and Recognition (ICDAR'2017)_.
-<img class="img-fluid rounded" src="/assets/img/rdcl2017.jpg" alt="RDCL2017 Certificate"/>
+
+<img class="rounded mx-auto d-block" src="/assets/img/rdcl2017.jpg" alt="RDCL2017 Certificate"  width="80%" height="auto"/>
 
 * :1st_place_medal: Winner of **Competition on Recognition of Documents with Complex Layouts** - _13th IAPR International Conference on Document Analysis and Recognition (ICDAR'2015)_.
-<img class="img-fluid rounded" src="/assets/img/rdcl2015.jpg" alt="RDCL2015 Certificate"/>
+
+<img class="rounded mx-auto d-block" src="/assets/img/rdcl2015.jpg" alt="RDCL2015 Certificate"  width="80%" height="auto"/>
