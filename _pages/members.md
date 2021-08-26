@@ -19,7 +19,7 @@ display_categories: [work]
     <div class="card hoverable bg-custom-1 d-block">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid w-100" alt="{{ member.profile.name }}" />
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="img-fluid w-100 rounded-circle" alt="{{ member.profile.name }}" />
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">

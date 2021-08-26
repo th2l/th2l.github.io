@@ -18,7 +18,7 @@ profile:
   linkedin: nhu-tai-do-a60016128
   website: dntai.vneasy.net
   align: right
-  image: ntdo.jpg
+  image: ntdo.png
 ---
 
 
