@@ -12,7 +12,7 @@ profile:
   name: Prof. Soo-Hyung Kim
   position: Head of the Pattern Recognition Lab
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   email: shkim (at) jnu.ac.kr
   orcid: 0000-0003-3575-5035
 ---

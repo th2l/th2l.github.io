@@ -17,7 +17,7 @@ profile:
   github: phan-kimngan
   website:
   align: right
-  image: avatar_df.png
+  image: nganphan.jpg
 ---
 
 I am currently working toward the master degree from the Department of Artificial Intelligence Convergence at Chonnam National University in South Korea.
