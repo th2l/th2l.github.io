@@ -53,14 +53,19 @@ ul.space_list_kr li { margin-bottom: 1em; font-family: 'Gowun Batang', serif;}
 }
 
 .carousel .carousel-inner {
-    margin-bottom: 15px;
+    //min-height: 200px;
+    //max-height: 300px;
+    margin: 10px;
+    //background: url("/assets/img/head_bg.jpg");
 }
 
 /* Make the image fully responsive */
 .carousel-item img {
     margin: auto;
 }
-
+.carousel-item {
+  text-align: center
+}
 //.carousel-control.right,
 //.carousel-control.left {
     //background-image: none;
