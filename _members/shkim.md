@@ -26,7 +26,11 @@ profile:
 | | |
 | 1986. 03 - 1988. 02    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), Master (석사) |
 | | |
-| 1988. 03 - 1993. 08    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), PhD (박사) |
+| 1988. 03 - 1993. 08    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과[SNU (서울대학교)](http://www.snu.ac.kr)  [Computer Science & Engineering (컴퓨터공학과)](http://wwwcomp.snu.ac.kr), Bachelor (학사) |
+| | |
+| 1986. 03 - 1988. 02    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), Master (석사) |
+| | |
+| 1988. 03 - 1993. 08    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), PhD (박사) |
 | <img width=130/>       |  |
 
 
@@ -46,3 +50,6 @@ profile:
 | | |
 | 2016. 09 - 2016. 12 <br/>  | Artificial Intelligence Research Institute (지능정보기술연구원, AIRI) - Visiting Research (방문연구원) |
 | <img width=130/>       |  |
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5NzEyNjQxNjVdfQ==
+-->
