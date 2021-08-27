@@ -2,6 +2,7 @@
 layout: meminfo
 title: Nhu-Tai Do
 lastname: Do
+alumni: false
 description:
 importance: 2
 category: work
