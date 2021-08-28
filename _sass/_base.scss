@@ -6,6 +6,7 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+  text-align: justify
 }
 
 a, table.table a {
@@ -197,6 +198,8 @@ blockquote {
 
 .news table th {
   color: var(--global-text-color);
+  max-width:100%;
+  white-space:nowrap;
 }
 
 // Social (bottom)
@@ -401,8 +404,8 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
           a {
             color: white;
             &:hover {
