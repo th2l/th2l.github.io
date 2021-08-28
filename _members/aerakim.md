@@ -5,7 +5,7 @@ lastname: Kim
 description:
 importance: 1
 category: work
-group: Research Assistants
+group: Staffs
 group_rank: 1
 redirect_from:
 profile:
