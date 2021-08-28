@@ -13,7 +13,7 @@ profile:
   email: trongnghia7171(at)gmail.com
   twitter:
   facebook:
-  orcid:
+  orcid: 0000-0003-1888-0117
   github: nghianguyen7171
   website:
   align: right
