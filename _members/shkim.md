@@ -22,14 +22,11 @@ profile:
 
 | 1979. 03 - 1982. 02    | Jeonju Wansan High School (전주완산고등학교) |
 | | |
-| 1982. 03 - 1986. 02    <br/>  <br/> | Dept. Computer Eng., SNU (서울대학교 컴퓨터공학과), Bachelor (학사) |
+| 1982. 03 - 1986. 02    <br/>  <br/> | Dept. Computer Engineering, SNU (서울대학교 컴퓨터공학과), Bachelor (학사) |
 | | |
 | 1986. 03 - 1988. 02    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), MS (석사) |
 | | |
 | 1988. 03 - 1993. 08    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), PhD (박사) |
-
-
-
 | <img width=130/>       |  |
 
 
@@ -45,7 +42,7 @@ profile:
 | | |
 | 2016. 03 - 2016. 08 | 소프트웨어정책연구소(SPRI), 방문연구원 |
 | | |
-| 2016. 09 - 2016. 12 <br/>  | 인공지능연구원(AIRI), 자문위원 |
+| 2016. 09 - 2017. 01 <br/>  | 인공지능연구원(AIRI), 자문위원 |
 | | |
 | 2017. 01 - 2018. 11 <br/>  | 전남대학교 입학본부, 입학본부장 |
 | | |
@@ -57,5 +54,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjQ5NTU3LC00NTc0ODAxODZdfQ==
+eyJoaXN0b3J5IjpbMTM2NDc5Mjg5NSwtNDU3NDgwMTg2XX0=
 -->
