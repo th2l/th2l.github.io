@@ -5,7 +5,7 @@ lastname: Kim
 description:
 importance: 1
 category: work
-group: Staffs
+group: StaffResearch Assistants
 group_rank: 1
 redirect_from:
 profile:
@@ -19,3 +19,6 @@ profile:
 
 
 Something about me
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMwNTAwOTA5OF19
+-->
