@@ -31,6 +31,16 @@ Early Stage Lung Adenocarcinoma,"
 
 
 <li>Dang Xuan Tien, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
+"Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. 84356-84363, June 2021. (IF: 3.745, Q1)(BRL2/지역우수2)
+</li>
+
+Ngoc-Huynh Ho, Hyung-Jeong Yang, 
+NGOC-HUYNH HO1, (Member, IEEE), HYUNG-JEONG YANG1, (Member, IEEE), SOO-HYUNG
+KIM1, (Member, IEEE), GUEESANG LEE1, (Member, IEEE), SEOK-BONG YOO1
+
+
+<li>Dang Xuan Tien, Hyung-Jeong Yang, Guee-Sang Lee, Soo-Hyung Kim,
 "D2C-Based Hybrid Network for Predicting Group Cohesion Scores,"
 <font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. 84356-84363, June 2021. (IF: 3.745, Q1)(BRL2/지역우수2)
 </li>
@@ -786,5 +796,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbLTI0NzMwNDYzOCwtODUyMDkxMTczLC01Mz
+AyOTQ2MTVdfQ==
 -->
