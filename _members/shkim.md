@@ -24,14 +24,12 @@ profile:
 | | |
 | 1982. 03 - 1986. 02    <br/>  <br/> | Dept. Computer Eng., SNU (서울대학교 컴퓨터공학과), Bachelor (학사) |
 | | |
-| 1986. 03 - 1988. 02    <br/>  <br/> | Dept. CS, KAIST (한국과학기술원 전산학과), MS (석사) |
+| 1986. 03 - 1988. 02    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), MS (석사) |
 | | |
-| 1988. 03 - 1993. 08    <br/>  <br/> | Depyt. CS, KAIST (한국과학기술원 전산학과), PhD (박사) |
+| 1988. 03 - 1993. 08    <br/>  <br/> | Dept. Computer Science, KAIST (한국과학기술원 전산학과), PhD (박사) |
 
 
-| 1986. 03 - 1988. 02    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), Master (석사) |
-| | |
-| 1988. 03 - 1993. 08    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), PhD (박사) |
+
 | <img width=130/>       |  |
 
 
@@ -59,5 +57,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwODY5MzU0LC00NTc0ODAxODZdfQ==
+eyJoaXN0b3J5IjpbMjA3NjQ5NTU3LC00NTc0ODAxODZdfQ==
 -->
