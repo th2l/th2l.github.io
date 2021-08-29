@@ -22,6 +22,8 @@ profile:
 
 | 1979. 03 - 1982. 02    | Jeonju Wansan High School (전주완산고등학교) |
 | | |
+
+
 | 1986. 03 - 1988. 02    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), Master (석사) |
 | | |
 | 1988. 03 - 1993. 08    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), PhD (박사) |
@@ -53,3 +55,6 @@ profile:
 | 2019. 09 - 현재 <br/>  | 전남대학교 AI융합대학, 학장 |
 | <img width=130/>       |  |
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwNjYyMDE5Ml19
+-->
