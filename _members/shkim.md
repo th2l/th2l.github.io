@@ -10,7 +10,7 @@ group_rank: 0
 redirect_from: /shkim
 profile:
   name: Prof. Soo-Hyung Kim
-  position: ㅁPattern Recognition Lab
+  position: Advisor of Pattern Recognition Lab
   align: right
   image: prof_pic.jpg
   email: shkim (at) jnu.ac.kr
@@ -57,5 +57,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODEwOTMzOF19
+eyJoaXN0b3J5IjpbODc5OTM0MjIyXX0=
 -->
