@@ -9,7 +9,7 @@ nav: false
 <ol class=space_list>
 
 
-<li>Vi Thi-Tuong Vo , Taebum Lee, and Soo-Hyung Kim,
+<li>Van-Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Hyung Kim,
 "Prediction of Evoked Expression from Videos with Temporal Position Fusion,"
 <font color="ff00ff"><i>Information Fusion</i></font>, submitted in August 2021. (IF: 12.975) (BRL2/지역우수3)
 </li>
@@ -786,5 +786,5 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDI5NDYxNV19
+eyJoaXN0b3J5IjpbLTg1MjA5MTE3MywtNTMwMjk0NjE1XX0=
 -->
