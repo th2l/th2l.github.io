@@ -24,7 +24,7 @@ profile:
 | | |
 | 1986. 03 - 1988. 02    <br/>  <br/> | [Dept. CS, KAIST (한국과학기술원 전산학과)], MS (석사) |
 | | |
-| 1988. 03 - 1993. 08    <br/>  <br/> | [Depyt. CS, KAIST (한국과학기술원 전산학과)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), PhD (박사) |
+| 1988. 03 - 1993. 08    <br/>  <br/> | [Depyt. CS, KAIST (한국과학기술원 전산학과)], PhD (박사) |
 
 
 | 1986. 03 - 1988. 02    <br/>  <br/> | [KAIST (한국과학기술원)](http://www.kaist.ac.kr)  [Computer Science (전산학과)](http://cs.kaist.ac.kr), Master (석사) |
@@ -36,8 +36,6 @@ profile:
     Careers (경력)
 
 | 1990. 09 - 1996. 12 <br/>  | 삼성전자 멀티미디어연구소, 선임연구원 |
-| | |
-| 1997. 01 - 현재 <br/>  | 전남대학교 AI융합대학 인공지능학부, 교수 |
 | | |
 | 2000. 12 - 2002. 01 <br/>  | 캐나다 Concordia 대학 CENPARMI 연구소, 방문교수 |
 | | |
@@ -59,5 +57,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzU3NzMzM119
+eyJoaXN0b3J5IjpbMTU1OTgxNDQwM119
 -->
