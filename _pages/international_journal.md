@@ -9,6 +9,12 @@ nav: false
 <ol class=space_list>
 
 
+<li>Vi Thi-Tuong Vo , Taebum Lee, and Soo-Hyung Kim,
+"Deep Learning for Individual Survival Time Diagnosis on 2
+Early Stage Lung Adenocarcinoma,"
+<font color="ff00ff"><i>Cancers</i></font>, submitted in August 2021. (IF: 4.848) (의사과학자)
+</li>
+
 
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
@@ -773,5 +779,5 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMwMTQxNDddfQ==
+eyJoaXN0b3J5IjpbMTQxMzM4MDE3MV19
 -->
