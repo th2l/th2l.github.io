@@ -20,7 +20,7 @@ profile:
 
     Education (학력)
 
-| 1979. 03 - 1982. 02    | Jeonju Wansan High School (전주완산고등학교) |
+| 1979. 03 - 1982. 02   <br/>  | Jeonju Wansan High School (전주완산고등학교) |
 | | |
 | 1982. 03 - 1986. 02    <br/>  | Dept. Computer Engineering, SNU (서울대학교 컴퓨터공학과), Bachelor (학사) |
 | | |
@@ -54,5 +54,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MzIxMzMsLTQ1NzQ4MDE4Nl19
+eyJoaXN0b3J5IjpbMTQ5MTcxODQwMCwtNDU3NDgwMTg2XX0=
 -->
