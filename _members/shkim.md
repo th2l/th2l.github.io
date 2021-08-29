@@ -22,7 +22,7 @@ profile:
 
 | 1979. 03 - 1982. 02    | Jeonju Wansan High School (전주완산고등학교) |
 | | |
-| 1982. 03 - 1986. 02    <br/>  <br/> | [Dept. Computer Eng., SNU (한국과학기술원 전산학과)], MS (석사) |
+| 1982. 03 - 1986. 02    <br/>  <br/> | [Dept. Computer Eng., SNU (서울대학교 컴퓨터공학과)], Bachelor (학사) |
 | | |
 | 1986. 03 - 1988. 02    <br/>  <br/> | [Dept. CS, KAIST (한국과학기술원 전산학과)], MS (석사) |
 | | |
@@ -59,5 +59,5 @@ profile:
 | <img width=130/>       |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTU5NDk1NF19
+eyJoaXN0b3J5IjpbLTQ1NzQ4MDE4Nl19
 -->
