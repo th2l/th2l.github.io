@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kim":
+  - firstname: ["Soo-Hyung", "S. H.", "Soo Hyung"]
+    url: https://prlabjnu.github.io/shkim
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Tran":
+  - firstname: ["Tuan Anh", "T. A."]
+    url: https://sites.google.com/site/trtanh1988/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Nguyen-An":
+  - firstname: ["Khuong"]
+    url: https://scholar.google.com/citations?user=ha11OwIAAAAJ&hl=en
