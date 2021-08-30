@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /publication/
+title: publication
 description:
 nav: true
+page_order: 2
 ---
 
 <div class="publications">

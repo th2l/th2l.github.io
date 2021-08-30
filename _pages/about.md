@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: PhD Student at <a href="https://prlabjnu.github.io" target='_blank'>Pattern Recognition Lab - Chonnam Nat'l Univ.</a>
-
+page_order: 1
 profile:
   align: right
   image: vthuynh.jpeg
