@@ -63,7 +63,7 @@ sortedIndex: 3
 
     Team **SML**: _Van-Thong Huynh_, _Soo-Hyung Kim_, Guee-Sang Lee, Hyung-Jeong Yang.
 
-* Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks - _IEEE Transactions on Affective Computing (TAC)_ - IF **10.506** (2020), JCR **10%** (2020)**.
+* Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks - _IEEE Transactions on Affective Computing (TAC)_ - IF **10.506** (2020), JCR **10%** (2020).
 
 <figure class="figure">
  <img class="rounded mx-auto d-block" src="/assets/img/mlcnn.png" alt="MLCNN" width="80%" height="auto"/>
