@@ -11,10 +11,9 @@ nav: false
 
 
 
-<li>Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim,
-"Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data,"
-<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (MdPhD/미래연구)
-(<font color="0000ff">Best Paper Award</font>)
+<li>Nguyen Hong Hai, Van Thong Huynh, Hyung-Jeong Yang,  Guee-Sang Lee, Soo-Hyung Kim,
+"MAFCL: Multimodal Attention Fusion with Combined Loss for Sentiment Recognition in Stress-induced Circumstances,"
+<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (BRL2/지역우수3)
 </li>
 
 
@@ -1079,5 +1078,5 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI3NTQxM119
+eyJoaXN0b3J5IjpbNzM1ODMxMjU2XX0=
 -->
