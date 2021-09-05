@@ -17,10 +17,10 @@ nav: false
 </li>
 
 
-<li>Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim,
-"Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data,"
-<i>Proc. 2020 Int. Conf. Smart Media and Applications</i>, Jeju, Korea, pp. 280-282, Sep. 2020. (MdPhD/미래연구)
-(<font color="0000ff">Best Paper Award</font>)
+<li>Nhu-Tai Do, Hyung-Jeong Yang, Guee-Sang Lee and Soo-Hyung Kim,
+"Facial Emotion Recognition in video clips using 3D Face
+Reconstruction,"
+<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (지역우수3/의사과학자)
 </li>
 
 
@@ -1078,5 +1078,5 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1ODMxMjU2XX0=
+eyJoaXN0b3J5IjpbMTc4ODY2ODg4Nl19
 -->
