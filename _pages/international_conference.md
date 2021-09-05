@@ -11,9 +11,11 @@ nav: false
 
 
 
-<li>Nguyen Hong Hai, Van Thong Huynh, Hyung-Jeong Yang,  Guee-Sang Lee, Soo-Hyung Kim,
-"MAFCL: Multimodal Attention Fusion with Combined Loss for Sentiment Recognition in Stress-induced Circumstances,"
-<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (BRL2/지역우수3)
+<li>Kim Ngan Phan,  Soo-Hyung Kim, Hyung-Jeong Yang,  Guee-Sang Lee,
+"Multimodal Convolutional Neural Network Model
+for Protective Behavior Detection based on Body
+Movement Data,"
+<i>Proc. 9th Int. Conf. Affective Computing and Intelligent Interaction Workshops and Demos</i>(ACIIW 2021), Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (BRL2/지역우수3)
 </li>
 
 
@@ -1079,5 +1081,5 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjY4NjYyOCwxNzg4NjY4ODg2XX0=
+eyJoaXN0b3J5IjpbLTE1ODUyMjc0MDIsMTc4ODY2ODg4Nl19
 -->
