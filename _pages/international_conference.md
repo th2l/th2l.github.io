@@ -10,6 +10,23 @@ nav: false
 <ol class=space_list>
 
 
+
+<li>Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim,
+"Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data,"
+<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. xxx-xxx, Sep. 2021. (MdPhD/미래연구)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
+
+
+<li>Thanh-Hung Vo, Guee-Sang Lee, Hyung-Jeong Yang, Sae-Ryung Kang, In-Jae Oh and Soo-Hyung Kim,
+"Multi-Task with Variational Autoencoder for Lung Cancer Prognosis on Clinical Data,"
+<i>Proc. 2020 Int. Conf. Smart Media and Applications</i>, Jeju, Korea, pp. 280-282, Sep. 2020. (MdPhD/미래연구)
+(<font color="0000ff">Best Paper Award</font>)
+</li>
+
+
+
+
 <li>Van Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Huyng Kim,
 "Temporal Convolution Networks with Positional Encoding for Evoked Expression Estimation,"
 <i>AUVi workshop in CVPR 2021</i>, accepted in June 2021. (BRL2/지역우수2)
@@ -1061,3 +1078,6 @@ Berkeley, USA, July 1993.
 </li>
 
 </ol>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MTI3NTQxM119
+-->
