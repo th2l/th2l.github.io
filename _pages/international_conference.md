@@ -26,12 +26,6 @@ Reconstruction,"
 
 
 
-<li>Van Thong Huynh, Guee-Sang Lee, Hyung-Jeong Yang, Soo-Huyng Kim,
-"Temporal Convolution Networks with Positional Encoding for Evoked Expression Estimation,"
-<i>AUVi workshop in CVPR 2021</i>, accepted in June 2021. (BRL2/지역우수2)
-</li>
-
-
 <li>Songa Kim, Van Thong Huynh, Dung Tran Thi, Aran Oh, Guee-Sang Lee, Hyung-Jeong Yang, and Soo-Hyung Kim,
 "The 2nd Korean Emotion Recognition Challenge: Methods and Results,"
 <i>Proc. Int. Workshop on Frontiers in Computer Vision</i>(IWFCV 2021), Daegu, Korea, Feb. 2021. (BRL2/의사과학자)
@@ -1078,5 +1072,5 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODY2ODg4Nl19
+eyJoaXN0b3J5IjpbMTg0NTYzMTc2MiwxNzg4NjY4ODg2XX0=
 -->
