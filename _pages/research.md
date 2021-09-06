@@ -53,13 +53,13 @@ sortedIndex: 3
 <img class="rounded mx-auto d-block" src="/assets/img/emopain2020.jpg" alt="EMOPAIN 2020 - FG Certificate" width="80%" height="auto"/>
 
 
-*  :1st_place_medal: Winner of the **Group-level Cohesion sub-challenge** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_.
+*  :1st_place_medal: Winner of the **Group-level Cohesion sub-challenge** - Seventh Emotion Recognition in the Wild Challenge ([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf)) - _21st ACM International Conference on Multimodal Interaction 2019_.
 
     Team **SML**: _Dang Xuan Tien_, _Soo-Hyung Kim_, Guee-Sang Lee, Hyung-Jeong Yang.
 
 <img class="rounded mx-auto d-block" src="/assets/img/emotiw19_gc.png" alt="GC model" width="80%" height="auto"/>
 
-* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_.
+* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge ([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf)) - _21st ACM International Conference on Multimodal Interaction 2019_.
 
     Team **SML**: _Van-Thong Huynh_, _Soo-Hyung Kim_, Guee-Sang Lee, Hyung-Jeong Yang.
 
