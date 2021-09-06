@@ -23,7 +23,7 @@ profile:
 ---
 
 
-I received the B.S. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 03-2018. My research is focused on video understanding, human-computer interaction.
+I received the B.S. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 03-2018. My research is focused on video understanding, human-computer interaction, multimodal learning.
 
 
 #### Achievements
