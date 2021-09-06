@@ -23,7 +23,7 @@ profile:
 ---
 
 
-I received the B.S. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 03-2018. My research is focused on video understanding, human-computer interaction, multimodal learning.
+I received the B.S. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, and the M.S. degree from the School of Electronics and Computer Engineering, Chonnam National University, South Korea, in 2020. Currently, I am pursuing the Ph.D. degree with the Department of Artificial Intelligence Convergence. I have joined the PR Lab since 03-2018. My research is focused on video understanding, human-computer interaction, multimodal learning. For more information, check my website at https://vthuynh.net.
 
 
 #### Achievements
@@ -31,7 +31,7 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 
 * :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions** Sub-Challenge - _IEEE 2020 Face & Gesture Conference_.
 
-* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
+* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge ([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf)) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
 
 #### Recent Publications
 
