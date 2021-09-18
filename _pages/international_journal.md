@@ -32,7 +32,7 @@ Early Stage Lung Adenocarcinoma,"
 
 <li>Ngoc-Huynh Ho, Hyung-Jeong Yang, Soo-Hyung Kim, Guee-Sang Lee, Seok-Bong Yoo,
 "Deep Graph Fusion based Multimodal Evoked Expressions from Large-Scale Videos,"
-<font color="ff00ff"><i>IEEE Access</i></font>, Vol. x, pp. xxxxx-xxxxx, August 2021. (IF: 3.745, Q1)(BRL2)
+<font color="ff00ff"><i>IEEE Access</i></font>, Vol. 9, pp. 127068-127080, Sep. 2021. (IF: 3.745, Q1)(BRL2)
 </li>
 
 
@@ -792,6 +792,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg4MDI5ODEsLTg1MjA5MTE3MywtNT
-MwMjk0NjE1XX0=
+eyJoaXN0b3J5IjpbLTQzMTU3OTMsLTE3Mzg4MDI5ODEsLTg1Mj
+A5MTE3MywtNTMwMjk0NjE1XX0=
 -->
