@@ -31,7 +31,7 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 
 * :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions** Sub-Challenge - _IEEE 2020 Face & Gesture Conference_.
 
-* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge ([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf)) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
+* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
 
 #### Recent Publications
 
@@ -48,5 +48,5 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Nzk3NzExOF19
+eyJoaXN0b3J5IjpbLTQ5NzQ4NDU1NSwxMTc3OTc3MTE4XX0=
 -->
