@@ -14,7 +14,6 @@ page_order: 2
   {% capture count_journal %} {% bibliography_count -f papers --query @article[year = {{y}}] %} {% endcapture %}
   {% assign count_papers = count_conf | plus: count_journal %}
   {% if count_papers > 0 %}
-    <h2 class="year">{{y}}</h2>
     {% bibliography -f papers -q @*[year={{y}}]* %}
   {% endif %}
   {% endfor %}
