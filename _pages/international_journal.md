@@ -26,7 +26,7 @@ Early Stage Lung Adenocarcinoma,"
 
 <li>Vi Thi-Tuong Vo, Hyung-Jeong Yang, Guee-Sang Lee, Sae-Ryung Kang, and Soo-Hyung Kim,
 "Effects of Multiple Filters on Liver Tumor Segmentation from CT Images,"
-<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, 697178 2021. (IF: 6.244) (의사과학자)
+<font color="ff00ff"><i>Frontiers in Oncology</i></font>, Vol. 11, No. 697178, pp. 1-13, Oct. 2021. (IF: 6.244) (의사과학자)
 </li>
 
 
@@ -792,6 +792,6 @@ Vol. 8, No. 5, pp. 1113-1129, Oct. 1994.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg1MzY4MCwtMTczODgwMjk4MSwtOD
+eyJoaXN0b3J5IjpbLTI5MDIzNjQzOSwtMTczODgwMjk4MSwtOD
 UyMDkxMTczLC01MzAyOTQ2MTVdfQ==
 -->
