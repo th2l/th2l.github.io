@@ -2,7 +2,6 @@
 <html>
 
   <head>
-    {% if page.meta_description %}  <meta name="description" content="{{ page.meta_description}}/" /> {% endif %}
     {% if page.redirect %}<meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" /> {% endif %}
     {% include head.html %}
     {% include scripts/mathjax.html %}
