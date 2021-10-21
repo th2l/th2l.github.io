@@ -2,7 +2,7 @@
 layout: page
 permalink: /publication/
 title: publication
-description: Selected publications
+description: Selected publications, multimodal emotion, engagement prediction, emotiw 2019, openeds 2019, eye segmentation
 nav: true
 page_order: 2
 ---
