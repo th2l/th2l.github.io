@@ -99,6 +99,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  papers:
+    output: true
+    permalink: /papers/:path/
 
 news_limit: 5
 
