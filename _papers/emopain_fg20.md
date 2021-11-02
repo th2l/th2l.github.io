@@ -24,7 +24,7 @@ $$ \rho_{c}(y,\hat{y}) = \frac{2\sigma(y,\hat{y})}{\sigma(y,y) + \sigma(\hat{y},
     <figcaption class="figure-caption" style="text-align:center;">Validation set results for pain estimation from facial features (EmoPain 2020).</figcaption>
 </figure>
 
-Our team **SML** won *1st place* :1st_place_medal: in EmoPain 2020 - Pain Intensity Estimation from Facial Expression.
+Our team won *1st place* :1st_place_medal: in EmoPain 2020 - Pain Intensity Estimation from Facial Expression.
 <figure class="figure">
     <img class="rounded mx-auto d-block" src="/assets/img/papers/emopain_fg20_results_test.png" alt="EmoPain test set results" width="60%" height="auto"/>
     <figcaption class="figure-caption" style="text-align:center;">Test set results for pain estimation from facial features (EmoPain 2020) </figcaption>
