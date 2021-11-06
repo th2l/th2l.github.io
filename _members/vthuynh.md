@@ -31,7 +31,7 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 
 * :1st_place_medal: Winner of the **EMOPAIN-2020 Pain Intensity Estimation from Facial Expresions** Sub-Challenge - _IEEE 2020 Face & Gesture Conference_.
 
-* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge ([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf)) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
+* :1st_place_medal: Winner of the **Engagement prediction in the Wild** - Seventh Emotion Recognition in the Wild Challenge (([EmotiW](https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf))) - _21st ACM International Conference on Multimodal Interaction 2019_. Team **SML**.
 
 #### Recent Publications
 
@@ -42,3 +42,11 @@ I received the B.S. degree from the Department of Computer Science and Engineeri
 3. Van-Thong Huynh, Hyung-Jeong Yang, Guee-Sang Lee, and Soo-Hyung Kim, "Semantic Segmentation of the Eye With a Lightweight Deep Network and Shape Correction." _IEEE Access_ 8 (2020): 131967-131974, doi: [10.1109/ACCESS.2020.3010011](https://doi.org/10.1109/ACCESS.2020.3010011).
 
 4. Van-Thong Huynh, Soo-Hyung Kim, Guee-Sang Lee, and Hyung-Jeong Yang. "Engagement Intensity Prediction with Facial Behavior Features." In _2019 International Conference on Multimodal Interaction_, pp. 567-571. 2019, doi: [10.1145/3340555.3355714](https://doi.org/10.1145/3340555.3355714).
+
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ5NzQ4NDU1NV19
+-->
