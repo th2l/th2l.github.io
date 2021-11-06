@@ -22,7 +22,7 @@ Movement Data,"
 
 <li>Nguyen Hong Hai, Van Thong Huynh, Hyung-Jeong Yang,  Guee-Sang Lee, Soo-Hyung Kim,
 "MAFCL: Multimodal Attention Fusion with Combined Loss for Sentiment Recognition in Stress-induced Circumstances,"
-<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. 16-19, Sep. 2021. (BRL2/지역우수3)
+<i>Proc. 2021 Int. Conf. Smart Media and Applications</i>, Gunsan, Korea, pp. 16-19, Sep. 2021. (BRL2/지역우수3) (<font color="0000ff">Best Paper Award</font>)
 </li>
 
 
@@ -1081,6 +1081,6 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQwNTMxMCwtNjgyOTMwNTIwLDE3OD
-g2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNj
+gyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
