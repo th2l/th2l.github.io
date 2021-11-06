@@ -15,7 +15,7 @@ nav: false
 "Multimodal Convolutional Neural Network Model
 for Protective Behavior Detection based on Body
 Movement Data,"
-<i>Proc. 9th Int. Conf. Affective Computing and Intelligent Interaction Workshops and Demos</i>(ACIIW 2021), Online Event, Sep. 2021. (BRL2/지역우수3). 
+<i>Proc. 9th Int. Conf. Affective Computing and Intelligent Interaction Workshops and Demos</i>(ACIIW 2021), Online Event, Sep. 2021. (BRL2/지역우수3)  (<font color="0000ff">Winner of AffectMove 2021 Challenge</font>)
 </li>
 
 
@@ -1081,6 +1081,6 @@ Berkeley, USA, July 1993.
 
 </ol>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE0NzYxOTEsLTExMTQwNTMxMCwtNj
-gyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
+eyJoaXN0b3J5IjpbLTg2OTg2MTksLTEwOTE0NzYxOTEsLTExMT
+QwNTMxMCwtNjgyOTMwNTIwLDE3ODg2Njg4ODZdfQ==
 -->
