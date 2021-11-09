@@ -91,14 +91,14 @@ disqus_shortname: # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #news:
+    #defaults:
+      #layout: post
+    #output: true
+    #permalink: /news/:path/
+  #projects:
+    #output: true
+    #permalink: /projects/:path/
   papers:
     output: true
     permalink: /papers/:path/
