@@ -7,7 +7,7 @@ meta_description: EEV 2021 challenge winner, EmoPain 2020 winner, EmotiW 2019 wi
 page_order: 1
 profile:
   align: right
-  image: vthuynh.jpeg
+  image: vthuynh.webp
   address:
 
 news: true  # includes a list of news items

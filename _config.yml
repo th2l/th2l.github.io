@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Van-Thong
 middle_name:
 last_name: Huynh
-email: vthuynh(at)ieee.org
+email: vthuynh@ieee.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
@@ -91,11 +91,11 @@ disqus_shortname: # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  #news:
-    #defaults:
-      #layout: post
-    #output: true
-    #permalink: /news/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
   #projects:
     #output: true
     #permalink: /projects/:path/
@@ -146,6 +146,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-seo-tag
+  - jekyll-responsive-image
 
 # Extras
 github: [metadata]
@@ -181,6 +182,23 @@ scholar:
   group_by: year
   group_order: descending
   query: "@*"
+
+
+# -----------------------------------------------------------------------------
+# Jekyll Responsive Images
+# -----------------------------------------------------------------------------
+
+responsive_image:
+  template: _includes/responsive_img.html
+  # Quality to use when resizing images.
+  default_quality: 80
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+      quality: 90
+  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size.
+  strip: true
 
 # -----------------------------------------------------------------------------
 # Optional Features
