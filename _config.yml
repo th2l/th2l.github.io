@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Van-Thong
+first_name: Văn-Thống
 middle_name:
-last_name: Huynh
+last_name: Huỳnh
 email: vthuynh@ieee.org
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
