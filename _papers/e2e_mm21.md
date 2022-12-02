@@ -20,7 +20,7 @@ This work presents an approach for emotion recognition in video through the inte
 
     F1 score and Weighted accuracy (wA):
 
-    $$ wA = \frac{TP(N/P) + TN}{N}, $$
+    $$ wA = \frac{TP(N/P) + TN}{2N}, $$
 
     where TP and TN are true positive, false negative, P and N are the toal number of positive, negative.
 
