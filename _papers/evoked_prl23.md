@@ -7,7 +7,8 @@ description:  Pattern Recognition Letters, Vol. 172, pp. 245-251, August 2023
 ### Abstract:
 
 This paper introduces an approach for estimating evoked categories expression from videos with the temporal position fusion. Pre-trained models on large-scale datasets in computer vision and audio signals were used to extract the deep representation for timestamps in the video. A temporal convolution network, rather than an RNN-like architecture, was applied to explore temporal relationships due to its advantage in memory consumption and parallelism. Furthermore, to address the noise labels, the temporal position was fused with the deep learned feature to ensure the network differentiates the time steps when noise labels were removed from the training set. This technique helps the system gain a considerable improvement compared to other methods. We conducted experiments on EEV, a large-scale dataset for evoked expression from videos, and achieved a score of 0.054 in terms of Pearson correlation coefficient as a state-of-the-art result. Further experiments on a sub set of LIRIS-ACCEDE dataset - MediaEval 2018 benchmark, also demonstrated the effectiveness of our approach.
-[Full paper](https://www.sciencedirect.com/science/article/pii/S016786552300199X) \| [Code](https://github.com/th2l/EvokedExpr-TPF) |
+
+[Full paper](https://www.sciencedirect.com/science/article/pii/S016786552300199X) \| [Code](https://github.com/th2l/EvokedExpr-TPF)
 
 <img class="rounded mx-auto d-block" src="/assets/img/papers/evoked_prl_overview.png" alt="Method overview" width="100%" height="auto"/>
 
