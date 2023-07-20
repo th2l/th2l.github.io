@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I received the B.E. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, and the M.E. degree in Computer Science, and Ph.D. degree in AI from Chonnam National University, South Korea, in 2020 and 2023. My research interests: pattern recognition, video understanding, human-computer interaction, multimodal representation learning.
+I received the B.E. degree from the Department of Computer Science and Engineering, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), Vietnam, in 2018, M.E. degree in Computer Science, and Ph.D. degree in AI from Chonnam National University, South Korea, in 2020 and 2023. My research interests: pattern recognition, video understanding, human-computer interaction, multimodal representation learning.
