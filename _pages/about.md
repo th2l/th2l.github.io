@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student at <a href="https://prlabjnu.github.io" target='_blank'>Pattern Recognition Lab - Chonnam Nat'l Univ.</a>
+description: <a href="https://prlabjnu.github.io" target='_blank'>Pattern Recognition Lab - Chonnam Nat'l Univ.</a>
 meta_description: EEV 2021 challenge winner, EmoPain 2020 winner, EmotiW 2019 winner, affective computing, video understanding, multimodal emotion, pain estimation
 page_order: 1
 profile:
