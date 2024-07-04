@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://vthuynh.net/" /> 
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Văn-Thống  Huỳnh
 
 
-  | Page not found
+  | Multimodality Pain and related Behaviors Recognition based on Attention Learning
 
 </title>
 
@@ -41,7 +41,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍🎓</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/papers/emopain_fg20/">
 
 
 <!-- Theming-->
@@ -65,20 +65,21 @@
 
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page not found | blank</title>
+<title>Multimodality Pain and related Behaviors Recognition based on Attention Learning | blank</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="Page not found" />
+<meta property="og:title" content="Multimodality Pain and related Behaviors Recognition based on Attention Learning" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
-<meta property="og:description" content="Looks like there has been a mistake. Nothing exists here." />
-<link rel="canonical" href="https://vthuynh.net/404.html" />
-<meta property="og:url" content="https://vthuynh.net/404.html" />
+<meta name="description" content="15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 814 – 818, Nov 2020" />
+<meta property="og:description" content="15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 814 – 818, Nov 2020" />
+<link rel="canonical" href="https://vthuynh.net/papers/emopain_fg20/" />
+<meta property="og:url" content="https://vthuynh.net/papers/emopain_fg20/" />
 <meta property="og:site_name" content="blank" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-04T01:34:39+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page not found" />
+<meta property="twitter:title" content="Multimodality Pain and related Behaviors Recognition based on Attention Learning" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Looks like there has been a mistake. Nothing exists here.","headline":"Page not found","url":"https://vthuynh.net/404.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-07-04T01:34:39+00:00","datePublished":"2024-07-04T01:34:39+00:00","description":"15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 814 – 818, Nov 2020","headline":"Multimodality Pain and related Behaviors Recognition based on Attention Learning","mainEntityOfPage":{"@type":"WebPage","@id":"https://vthuynh.net/papers/emopain_fg20/"},"url":"https://vthuynh.net/papers/emopain_fg20/"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -159,17 +160,60 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h2 class="post-title" style="text-align:center;">Multimodality Pain and related Behaviors Recognition based on Attention Learning</h2>
+    <p class="post-description" style="text-align:center;">15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 814 -- 818, Nov 2020</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://vthuynh.net/">here</a>.</p>
+  <article class="post-content">
+    <h3 id="abstract">Abstract:</h3>
+
+<p>Our work aimed to study facial data as well as movement data for recognition of pain and related behaviors in the context of everyday physical activities, which was provided as three tasks in EmoPain 2020 challenge. We explored deep visual representation and geometric features, which included head pose, facial landmarks, and action units in facial data with a combination of fully connected layers for estimating pain from facial data. In tasks with movement data, we employed long short-term memory layers to learn temporal information in each segment of 180 frames. We examined attention mechanism to investigate the relationship and gather data from multiple sources together. Experiments on EmoPain dataset showed that our methods significantly outperformed baseline results on pain recognition tasks.</p>
+
+<p><a href="https://ieeexplore.ieee.org/document/9320185" target="_blank" rel="noopener noreferrer">Full paper</a> | Code
+<br></p>
+
+<h4 id="evaluation">Evaluation</h4>
+
+<p><strong>EmoPain 2020</strong> Pain Intensity Estimation from Facial Expression</p>
+
+<p>Evaluation metric:  concordance correlation coefficient (\(\rho_{c}\))</p>
+
+\[\rho_{c}(y,\hat{y}) = \frac{2\sigma(y,\hat{y})}{\sigma(y,y) + \sigma(\hat{y},\hat{y}) + (\mu-\hat{\mu})^{2}}\]
+
+<figure class="figure">
+    <img class="rounded mx-auto d-block" src="/assets/img/papers/emopain_fg20_results.png" alt="EmoPain validation set results" width="90%" height="auto">
+    <figcaption class="figure-caption" style="text-align:center;">Validation set results for pain estimation from facial features (EmoPain 2020).</figcaption>
+</figure>
+
+<p>Our team won <em>1st place</em> <img class="emoji" title=":1st_place_medal:" alt=":1st_place_medal:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png" height="20" width="20"> in EmoPain 2020 - Pain Intensity Estimation from Facial Expression.</p>
+<figure class="figure">
+    <img class="rounded mx-auto d-block" src="/assets/img/papers/emopain_fg20_results_test.png" alt="EmoPain test set results" width="60%" height="auto">
+    <figcaption class="figure-caption" style="text-align:center;">Test set results for pain estimation from facial features (EmoPain 2020) </figcaption>
+</figure>
+
+<h4 id="citation">Citation</h4>
+
+<p>V. T. Huynh, H. -J. Yang, G. -S. Lee and S. -H. Kim, “Multimodality Pain and related Behaviors Recognition based on Attention Learning,” <em>2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020)</em>, 2020, pp. 814-818, doi: 10.1109/FG47880.2020.00034.</p>
+
+<p><strong>BibTeX</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@INPROCEEDINGS{9320185,
+    author={Huynh, Van Thong and Yang, Hyung-Jeong and Lee, Guee-Sang and Kim, Soo-Hyung},
+    booktitle={2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020)},
+    title={Multimodality Pain and related Behaviors Recognition based on Attention Learning},
+    year={2020},
+    pages={814-818},
+    doi={10.1109/FG47880.2020.00034}}
+</code></pre></div></div>
+
 
   </article>
+
+  
 
 </div>
 

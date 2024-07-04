@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://vthuynh.net/" /> 
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Văn-Thống  Huỳnh
 
 
-  | Page not found
+  | Prediction of evoked expression from videos with temporal position fusion
 
 </title>
 
@@ -41,7 +41,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍🎓</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/papers/evoked_prl23/">
 
 
 <!-- Theming-->
@@ -65,20 +65,21 @@
 
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page not found | blank</title>
+<title>Prediction of evoked expression from videos with temporal position fusion | blank</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="Page not found" />
+<meta property="og:title" content="Prediction of evoked expression from videos with temporal position fusion" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
-<meta property="og:description" content="Looks like there has been a mistake. Nothing exists here." />
-<link rel="canonical" href="https://vthuynh.net/404.html" />
-<meta property="og:url" content="https://vthuynh.net/404.html" />
+<meta name="description" content="Pattern Recognition Letters, Vol. 172, pp. 245-251, August 2023" />
+<meta property="og:description" content="Pattern Recognition Letters, Vol. 172, pp. 245-251, August 2023" />
+<link rel="canonical" href="https://vthuynh.net/papers/evoked_prl23/" />
+<meta property="og:url" content="https://vthuynh.net/papers/evoked_prl23/" />
 <meta property="og:site_name" content="blank" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-04T01:34:39+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page not found" />
+<meta property="twitter:title" content="Prediction of evoked expression from videos with temporal position fusion" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Looks like there has been a mistake. Nothing exists here.","headline":"Page not found","url":"https://vthuynh.net/404.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-07-04T01:34:39+00:00","datePublished":"2024-07-04T01:34:39+00:00","description":"Pattern Recognition Letters, Vol. 172, pp. 245-251, August 2023","headline":"Prediction of evoked expression from videos with temporal position fusion","mainEntityOfPage":{"@type":"WebPage","@id":"https://vthuynh.net/papers/evoked_prl23/"},"url":"https://vthuynh.net/papers/evoked_prl23/"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -159,17 +160,67 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h2 class="post-title" style="text-align:center;">Prediction of evoked expression from videos with temporal position fusion</h2>
+    <p class="post-description" style="text-align:center;">Pattern Recognition Letters, Vol. 172, pp. 245-251, August 2023</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://vthuynh.net/">here</a>.</p>
+  <article class="post-content">
+    <h3 id="abstract">Abstract:</h3>
+
+<p>This paper introduces an approach for estimating evoked categories expression from videos with the temporal position fusion. Pre-trained models on large-scale datasets in computer vision and audio signals were used to extract the deep representation for timestamps in the video. A temporal convolution network, rather than an RNN-like architecture, was applied to explore temporal relationships due to its advantage in memory consumption and parallelism. Furthermore, to address the noise labels, the temporal position was fused with the deep learned feature to ensure the network differentiates the time steps when noise labels were removed from the training set. This technique helps the system gain a considerable improvement compared to other methods. We conducted experiments on EEV, a large-scale dataset for evoked expression from videos, and achieved a score of 0.054 in terms of Pearson correlation coefficient as a state-of-the-art result. Further experiments on a sub set of LIRIS-ACCEDE dataset - MediaEval 2018 benchmark, also demonstrated the effectiveness of our approach.</p>
+
+<p><a href="https://www.sciencedirect.com/science/article/pii/S016786552300199X" target="_blank" rel="noopener noreferrer">Full paper</a> | <a href="https://github.com/th2l/EvokedExpr-TPF" target="_blank" rel="noopener noreferrer">Code</a></p>
+
+<p><img class="rounded mx-auto d-block" src="/assets/img/papers/evoked_prl_overview.png" alt="Method overview" width="100%" height="auto"></p>
+
+<h4 id="evaluation">Evaluation</h4>
+
+<ol>
+  <li>
+    <p><strong>EEV</strong> (<a href="https://github.com/google-research-datasets/eev" target="_blank" rel="noopener noreferrer">Evoked Expressions in Video Dataset</a>)</p>
+
+    <p>Our team <strong>SML</strong> won <em>1st place</em> <img class="emoji" title=":1st_place_medal:" alt=":1st_place_medal:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png" height="20" width="20"> in <a href="https://sites.google.com/view/auvi-cvpr2021/challenge?authuser=0" target="_blank" rel="noopener noreferrer">EEV 2021 challenge</a>:</p>
+
+    <figure class="figure">
+     <img class="rounded mx-auto d-block" src="/assets/img/papers/evoked_prl_eev.png" alt="EEV dataset comparison" width="100%" height="auto">
+     <figcaption class="figure-caption">Evaluation results on EEV dataset compared to other works.</figcaption>
+ </figure>
+  </li>
+  <li>
+    <p><strong>MediaEval 2018</strong> (<a href="https://liris-accede.ec-lyon.fr/" target="_blank" rel="noopener noreferrer">Emotional Impact of Movies</a>)</p>
+
+    <figure class="figure">
+     <img class="rounded mx-auto d-block" src="/assets/img/papers/evoked_prl_mediaeval18.png" alt="MediaEval 2018 comparison" width="60%" height="auto">
+     <figcaption class="figure-caption" style="text-align:center;">Evaluation results on MediaEval 2018 dataset compared to other works.</figcaption>
+ </figure>
+  </li>
+</ol>
+
+<h4 id="citation">Citation</h4>
+
+<p>V. T. Huynh, H. -J. Yang, G. -S. Lee and S. -H. Kim, “Prediction of evoked expression from videos with temporal position fusion,” in <em>Pattern Recognition Letters</em>, vol. 172, pp. 245-251, August 2023, doi: 10.1016/j.patrec.2023.07.002</p>
+
+<p><strong>BibTeX</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ARTICLE{HUYNH2023245,
+    title = {Prediction of evoked expression from videos with temporal position fusion},
+    journal = {Pattern Recognition Letters},
+    volume = {172},
+    pages = {245-251},
+    year = {2023},
+    issn = {0167-8655},
+    doi = {https://doi.org/10.1016/j.patrec.2023.07.002},
+    author = {Van Thong Huynh and Hyung-Jeong Yang and Guee-Sang Lee and Soo-Hyung Kim},
+}
+</code></pre></div></div>
 
   </article>
+
+  
 
 </div>
 

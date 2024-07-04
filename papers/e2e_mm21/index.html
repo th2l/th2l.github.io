@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://vthuynh.net/" /> 
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Văn-Thống  Huỳnh
 
 
-  | Page not found
+  | End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss
 
 </title>
 
@@ -41,7 +41,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍🎓</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/papers/e2e_mm21/">
 
 
 <!-- Theming-->
@@ -65,20 +65,21 @@
 
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page not found | blank</title>
+<title>End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss | blank</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="Page not found" />
+<meta property="og:title" content="End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
-<meta property="og:description" content="Looks like there has been a mistake. Nothing exists here." />
-<link rel="canonical" href="https://vthuynh.net/404.html" />
-<meta property="og:url" content="https://vthuynh.net/404.html" />
+<meta name="description" content="IEEE MultiMedia, Vol. 28 (2), pp. 59-66, April-June 2021" />
+<meta property="og:description" content="IEEE MultiMedia, Vol. 28 (2), pp. 59-66, April-June 2021" />
+<link rel="canonical" href="https://vthuynh.net/papers/e2e_mm21/" />
+<meta property="og:url" content="https://vthuynh.net/papers/e2e_mm21/" />
 <meta property="og:site_name" content="blank" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-04T01:34:39+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page not found" />
+<meta property="twitter:title" content="End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Looks like there has been a mistake. Nothing exists here.","headline":"Page not found","url":"https://vthuynh.net/404.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-07-04T01:34:39+00:00","datePublished":"2024-07-04T01:34:39+00:00","description":"IEEE MultiMedia, Vol. 28 (2), pp. 59-66, April-June 2021","headline":"End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss","mainEntityOfPage":{"@type":"WebPage","@id":"https://vthuynh.net/papers/e2e_mm21/"},"url":"https://vthuynh.net/papers/e2e_mm21/"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -159,17 +160,80 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h2 class="post-title" style="text-align:center;">End-to-End Learning for Multimodal Emotion Recognition in Video with Adaptive Loss</h2>
+    <p class="post-description" style="text-align:center;">IEEE MultiMedia, Vol. 28 (2), pp. 59-66, April-June 2021</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://vthuynh.net/">here</a>.</p>
+  <article class="post-content">
+    <h3 id="abstract">Abstract:</h3>
+
+<p>This work presents an approach for emotion recognition in video through the interaction of visual, audio, and language information in an end-to-end learning manner with three key points: <strong>1)</strong> lightweight feature extractor, <strong>2)</strong> attention strategy, and <strong>3)</strong> adaptive loss. We proposed a lightweight deep architecture with approximately 1 MB, which for the most crucial part, accounts for feature extraction, in the emotion recognition systems. The relationship in regard to the time dimension of features is explored with temporal convolutional network instead of RNNs-based architecture to leverage the parallelism and avoid the challenge of vanishing gradient. The attention strategy is employed to adjust the knowledge of temporal networks based on the time dimension and learning of each modality’s contribution to the final results. The interaction between the modalities is also investigated when training with adaptive objective function, which adjusts the network’s gradient. The experimental results obtained on a large-scale dataset for emotion recognition on Koreans demonstrate the superiority of our method when employing attention mechanism and adaptive loss during training.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+<a href="https://ieeexplore.ieee.org/document/9431699" target="_blank" rel="noopener noreferrer">Full paper</a> | <a href="https://github.com/th2l/E2EMAL" target="_blank" rel="noopener noreferrer">Code</a>
+</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img class="rounded mx-auto d-block" src="/assets/img/papers/e2e_mm_overview.png" alt="Method overview" width="100%" height="auto"></p>
+
+<p><img class="rounded mx-auto d-block" src="/assets/img/papers/e2e_mm_lfe.png" alt="LFE block" width="100%" height="auto"></p>
+
+<h4 id="evaluation">Evaluation</h4>
+
+<ol>
+  <li>
+    <p><strong>CMU-MOSEI</strong> (CMU Multimodal Opinion Sentiment and Emotion Intensity)</p>
+
+    <p>F1 score and Weighted accuracy (wA):</p>
+
+\[wA = \frac{TP(N/P) + TN}{2N},\]
+
+    <p>where TP and TN are true positive, false negative, P and N are the toal number of positive, negative.</p>
+
+    <figure class="figure">
+     <img class="rounded mx-auto d-block" src="/assets/img/papers/e2e_mm_cmu-mosei.png" alt="CMU-MOSEI comparison" width="100%" height="auto">
+     <figcaption class="figure-caption">Evaluation results on CMU-MOSEI compared to prior works.</figcaption>
+ </figure>
+  </li>
+  <li>
+    <p><strong>MERC2020</strong> (<a href="https://sites.google.com/view/merc2020/" target="_blank" rel="noopener noreferrer">Korean Emotion Recognition Dataset</a>)</p>
+
+    <figure class="figure">
+     <img class="rounded mx-auto d-block" src="/assets/img/papers/e2e_mm_merc_val.png" alt="CMU-MOSEI comparison" width="60%" height="auto">
+     <figcaption class="figure-caption" style="text-align:center;">Evaluation results on MERC2020 validation set.</figcaption>
+ </figure>
+  </li>
+</ol>
+
+<h4 id="citation">Citation</h4>
+
+<p>V. T. Huynh, H. -J. Yang, G. -S. Lee and S. -H. Kim, “End-to-End Learning for Multimodal Emotion Recognition in Video With Adaptive Loss,” in <em>IEEE MultiMedia</em>, vol. 28, no. 2, pp. 59-66, 1 April-June 2021, doi: 10.1109/MMUL.2021.3080305.</p>
+
+<p><strong>BibTeX</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ARTICLE{9431699,
+  author={Huynh, Van Thong and Yang, Hyung-Jeong and Lee, Guee-Sang and Kim, Soo-Hyung},
+  journal={IEEE MultiMedia},
+  title={End-to-End Learning for Multimodal Emotion Recognition in Video With Adaptive Loss},
+  year={2021},
+  volume={28},
+  number={2},
+  pages={59-66},
+  doi={10.1109/MMUL.2021.3080305}}
+</code></pre></div></div>
 
   </article>
+
+  
 
 </div>
 

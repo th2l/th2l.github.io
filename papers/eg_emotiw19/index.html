@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://vthuynh.net/" /> 
+    
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   Văn-Thống  Huỳnh
 
 
-  | Page not found
+  | Engagement Intensity Prediction with Facial Behavior Features
 
 </title>
 
@@ -41,7 +41,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍🎓</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/404.html">
+<link rel="canonical" href="/papers/eg_emotiw19/">
 
 
 <!-- Theming-->
@@ -65,20 +65,21 @@
 
 
     <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page not found | blank</title>
+<title>Engagement Intensity Prediction with Facial Behavior Features | blank</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="Page not found" />
+<meta property="og:title" content="Engagement Intensity Prediction with Facial Behavior Features" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
-<meta property="og:description" content="Looks like there has been a mistake. Nothing exists here." />
-<link rel="canonical" href="https://vthuynh.net/404.html" />
-<meta property="og:url" content="https://vthuynh.net/404.html" />
+<meta name="description" content="ICMI’19 - 2019 International Conference on Multimodal Interaction, pp. 567 – 571, Oct 2019" />
+<meta property="og:description" content="ICMI’19 - 2019 International Conference on Multimodal Interaction, pp. 567 – 571, Oct 2019" />
+<link rel="canonical" href="https://vthuynh.net/papers/eg_emotiw19/" />
+<meta property="og:url" content="https://vthuynh.net/papers/eg_emotiw19/" />
 <meta property="og:site_name" content="blank" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-04T01:34:39+00:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page not found" />
+<meta property="twitter:title" content="Engagement Intensity Prediction with Facial Behavior Features" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Looks like there has been a mistake. Nothing exists here.","headline":"Page not found","url":"https://vthuynh.net/404.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-07-04T01:34:39+00:00","datePublished":"2024-07-04T01:34:39+00:00","description":"ICMI’19 - 2019 International Conference on Multimodal Interaction, pp. 567 – 571, Oct 2019","headline":"Engagement Intensity Prediction with Facial Behavior Features","mainEntityOfPage":{"@type":"WebPage","@id":"https://vthuynh.net/papers/eg_emotiw19/"},"url":"https://vthuynh.net/papers/eg_emotiw19/"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -159,17 +160,56 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h2 class="post-title" style="text-align:center;">Engagement Intensity Prediction with Facial Behavior Features</h2>
+    <p class="post-description" style="text-align:center;">ICMI'19 - 2019 International Conference on Multimodal Interaction, pp. 567 -- 571, Oct 2019</p>
   </header>
 
-  <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://vthuynh.net/">here</a>.</p>
+  <article class="post-content">
+    <h3 id="abstract">Abstract:</h3>
+
+<p>This paper describes an approach for the engagement prediction task, a sub-challenge of the 7th Emotion Recognition in the Wild Challenge (EmotiW 2019). Our method involves three fundamental steps: feature extraction, regression and model ensemble. In the first step, an input video is divided into multiple overlapped segments (instances) and the features extracted for each instance. The combinations of Long short-term memory (LSTM) and Fully connected layers deployed to capture the temporal information and regress the engagement intensity for the features in previous step. In the last step, we performed fusions to achieve better performance. Finally, our approach achieved a mean square error of 0.0597, which is 4.63% lower than the best results last year.</p>
+
+<p><a href="https://dl.acm.org/doi/abs/10.1145/3340555.3355714" target="_blank" rel="noopener noreferrer">Full paper</a> | <a href="/assets/pdf/ICMI19_EG_poster.pdf">Poster</a> | Code
+<br></p>
+
+<h4 id="evaluation">Evaluation</h4>
+
+<p><strong>EmotiW 2019</strong> Engagement prediction</p>
+
+<figure class="figure">
+    <img class="rounded mx-auto d-block" src="/assets/img/papers/eg_emotiw19_results.png" alt="EmotiW 2019 Engagement test set results" width="60%" height="auto">
+    <figcaption class="figure-caption" style="text-align:center;">EmotiW 2019 Engagement test set results.</figcaption>
+</figure>
+
+<p>Our team <strong>SML</strong> won <em>1st place</em> <img class="emoji" title=":1st_place_medal:" alt=":1st_place_medal:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png" height="20" width="20"> in EmotiW 2019 - Engagement prediction task.</p>
+<figure class="figure">
+    <img class="rounded mx-auto d-block" src="/assets/img/papers/eg_emotiw19_results_ranked.png" alt="EmotiW 2019 Engagement test set results ranked" width="60%" height="auto">
+    <figcaption class="figure-caption" style="text-align:center;">MSE based comparison of the EP sub-challenge participating methods. Source: https://researchmgt.monash.edu/ws/portalfiles/portal/288645367/288531253_oa.pdf </figcaption>
+</figure>
+
+<h4 id="citation">Citation</h4>
+
+<p>Van Thong Huynh, Soo-Hyung Kim, Guee-Sang Lee, and Hyung-Jeong Yang. 2019. Engagement Intensity Prediction with Facial Behavior Features. In <em>2019 International Conference on Multimodal Interaction (ICMI ‘19)</em>. Association for Computing Machinery, New York, NY, USA, 567–571. DOI: 10.1145/3340555.3355714</p>
+
+<p><strong>BibTeX</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings{thong2019engagement,
+  title = {Engagement Intensity Prediction with Facial Behavior Features},
+  author = {Huynh, Van-Thong and Kim, Soo-Hyung and Lee, Guee-Sang and Yang, Hyung-Jeong},
+  booktitle = {2019 International Conference on Multimodal Interaction},
+  pages = {567--571},
+  year = {2019},
+  doi = {10.1145/3340555.3355714},
+}
+</code></pre></div></div>
 
   </article>
+
+  
 
 </div>
 
